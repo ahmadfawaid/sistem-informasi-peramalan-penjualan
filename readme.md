@@ -14,6 +14,7 @@
 - jalankan `composer install`
 - jalankan `php artisan key:generate`
 - buat database MySQL untuk app-nya
+- copy file `.env.example` ke `.env`
 - perbarui file `.env` sesuaikan dengan nama database yg telah dibuat
 - jalankan `composer dump-autoload`
 - jalankan `php artisan migrate`
