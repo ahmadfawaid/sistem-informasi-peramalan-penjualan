@@ -1,7 +1,10 @@
-# Skripsweet
+# Skripsweet (Laravel + Vue)
 
-> Projek skripsi menggunakan framework Laravel & Vue
+> Sistem Informasi Peramalan Penjualan Obat Menggunakan Metode "Adaptive Response Rate Single Exponential Smoothing"
 
+### Gambaran Umum Sistem (copas file skripsi)
+
+Sistem dengan fitur peramalan yang mampu meramalkan penjualan obat pada periode berikutnya menggunakan metode peramalan Adaptive Response Rate Single Exponential Smoothing. Sistem ini memiliki dua hak akses, yaitu manager klinik sebagai admin yang dapat mengelola data user, melihat laporan transaksi pembelian dan penjualan obat, serta melihat laporan data persediaan obat. User yang kedua adalah apoteker yang dapat mengelola data obat, data persediaan obat, mengelola data vendor, mengelola data pembelian dan penjualan obat.
 
 ## Instalasi
 
