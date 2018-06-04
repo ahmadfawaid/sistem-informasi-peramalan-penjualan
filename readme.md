@@ -42,7 +42,7 @@ npm run hot
 
 ### Data User
 
-|Email|Password|
+|Username|Password|
 |:------------|:------------|
 |admin|1324|
 |apoteker|1324|
