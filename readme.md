@@ -2,6 +2,7 @@
 
 > Projek skripsi menggunakan metode peramalan "Adaptive Responsive Rate Single Exponential Smoothing"
 
+
 ## Instalasi
 
 ### Sebelum Proses Instalasi
@@ -19,6 +20,7 @@
 - jalankan `php artisan db:seed`
 - jalankan `npm install`
 - jalankan `php artisan serv` 
+
 
 ## Penggunaan
 
@@ -41,6 +43,7 @@ password: 1324
 apoteker
 username: apoteker
 password: 1324
+
 
 ## Semoga Bermanfaat
 
