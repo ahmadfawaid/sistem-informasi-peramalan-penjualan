@@ -1,0 +1,3887 @@
+[
+	{
+		"id": "1",
+		"penjualan_id": "1",
+		"produk_id": "1",
+		"kuantitas": "5",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "2",
+		"penjualan_id": "2",
+		"produk_id": "2",
+		"kuantitas": "24",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "3",
+		"penjualan_id": "3",
+		"produk_id": "3",
+		"kuantitas": "10",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "4",
+		"penjualan_id": "4",
+		"produk_id": "4",
+		"kuantitas": "10",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "5",
+		"penjualan_id": "5",
+		"produk_id": "5",
+		"kuantitas": "10",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "6",
+		"penjualan_id": "6",
+		"produk_id": "6",
+		"kuantitas": "1",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "7",
+		"penjualan_id": "7",
+		"produk_id": "7",
+		"kuantitas": "6",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "8",
+		"penjualan_id": "8",
+		"produk_id": "8",
+		"kuantitas": "2",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "9",
+		"penjualan_id": "9",
+		"produk_id": "9",
+		"kuantitas": "1",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "10",
+		"penjualan_id": "10",
+		"produk_id": "10",
+		"kuantitas": "10",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "11",
+		"penjualan_id": "11",
+		"produk_id": "11",
+		"kuantitas": "14",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "12",
+		"penjualan_id": "12",
+		"produk_id": "12",
+		"kuantitas": "22",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "13",
+		"penjualan_id": "13",
+		"produk_id": "14",
+		"kuantitas": "43",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "14",
+		"penjualan_id": "14",
+		"produk_id": "15",
+		"kuantitas": "102",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "15",
+		"penjualan_id": "15",
+		"produk_id": "16",
+		"kuantitas": "85",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "16",
+		"penjualan_id": "16",
+		"produk_id": "17",
+		"kuantitas": "1",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "17",
+		"penjualan_id": "17",
+		"produk_id": "18",
+		"kuantitas": "74",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "18",
+		"penjualan_id": "18",
+		"produk_id": "19",
+		"kuantitas": "4",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "19",
+		"penjualan_id": "19",
+		"produk_id": "20",
+		"kuantitas": "2",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "20",
+		"penjualan_id": "20",
+		"produk_id": "21",
+		"kuantitas": "1890",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "21",
+		"penjualan_id": "21",
+		"produk_id": "22",
+		"kuantitas": "610",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "22",
+		"penjualan_id": "22",
+		"produk_id": "23",
+		"kuantitas": "4763",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "23",
+		"penjualan_id": "23",
+		"produk_id": "24",
+		"kuantitas": "4880",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "24",
+		"penjualan_id": "24",
+		"produk_id": "25",
+		"kuantitas": "2800",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "25",
+		"penjualan_id": "25",
+		"produk_id": "26",
+		"kuantitas": "1700",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "26",
+		"penjualan_id": "26",
+		"produk_id": "27",
+		"kuantitas": "918",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "27",
+		"penjualan_id": "27",
+		"produk_id": "28",
+		"kuantitas": "200",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "28",
+		"penjualan_id": "28",
+		"produk_id": "29",
+		"kuantitas": "50",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "29",
+		"penjualan_id": "29",
+		"produk_id": "31",
+		"kuantitas": "408",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "30",
+		"penjualan_id": "30",
+		"produk_id": "32",
+		"kuantitas": "1094",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "31",
+		"penjualan_id": "31",
+		"produk_id": "33",
+		"kuantitas": "1318",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "32",
+		"penjualan_id": "32",
+		"produk_id": "34",
+		"kuantitas": "523",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "33",
+		"penjualan_id": "33",
+		"produk_id": "39",
+		"kuantitas": "21",
+		"harga_satuan": "7500"
+	},
+	{
+		"id": "34",
+		"penjualan_id": "34",
+		"produk_id": "40",
+		"kuantitas": "11",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "35",
+		"penjualan_id": "35",
+		"produk_id": "41",
+		"kuantitas": "31",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "36",
+		"penjualan_id": "36",
+		"produk_id": "43",
+		"kuantitas": "4",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "37",
+		"penjualan_id": "37",
+		"produk_id": "44",
+		"kuantitas": "14",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "38",
+		"penjualan_id": "38",
+		"produk_id": "45",
+		"kuantitas": "3",
+		"harga_satuan": "58500"
+	},
+	{
+		"id": "39",
+		"penjualan_id": "39",
+		"produk_id": "46",
+		"kuantitas": "50",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "40",
+		"penjualan_id": "40",
+		"produk_id": "47",
+		"kuantitas": "2",
+		"harga_satuan": "9900"
+	},
+	{
+		"id": "41",
+		"penjualan_id": "41",
+		"produk_id": "48",
+		"kuantitas": "200",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "42",
+		"penjualan_id": "42",
+		"produk_id": "50",
+		"kuantitas": "300",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "43",
+		"penjualan_id": "43",
+		"produk_id": "1",
+		"kuantitas": "5",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "44",
+		"penjualan_id": "44",
+		"produk_id": "2",
+		"kuantitas": "30",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "45",
+		"penjualan_id": "45",
+		"produk_id": "3",
+		"kuantitas": "10",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "46",
+		"penjualan_id": "46",
+		"produk_id": "5",
+		"kuantitas": "13",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "47",
+		"penjualan_id": "47",
+		"produk_id": "6",
+		"kuantitas": "2",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "48",
+		"penjualan_id": "48",
+		"produk_id": "7",
+		"kuantitas": "5",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "49",
+		"penjualan_id": "49",
+		"produk_id": "8",
+		"kuantitas": "2",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "50",
+		"penjualan_id": "50",
+		"produk_id": "9",
+		"kuantitas": "2",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "51",
+		"penjualan_id": "51",
+		"produk_id": "10",
+		"kuantitas": "30",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "52",
+		"penjualan_id": "52",
+		"produk_id": "11",
+		"kuantitas": "94",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "53",
+		"penjualan_id": "53",
+		"produk_id": "12",
+		"kuantitas": "30",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "54",
+		"penjualan_id": "54",
+		"produk_id": "13",
+		"kuantitas": "20",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "55",
+		"penjualan_id": "55",
+		"produk_id": "14",
+		"kuantitas": "20",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "56",
+		"penjualan_id": "56",
+		"produk_id": "15",
+		"kuantitas": "118",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "57",
+		"penjualan_id": "57",
+		"produk_id": "16",
+		"kuantitas": "80",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "58",
+		"penjualan_id": "58",
+		"produk_id": "17",
+		"kuantitas": "1",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "59",
+		"penjualan_id": "59",
+		"produk_id": "18",
+		"kuantitas": "86",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "60",
+		"penjualan_id": "60",
+		"produk_id": "19",
+		"kuantitas": "3",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "61",
+		"penjualan_id": "61",
+		"produk_id": "21",
+		"kuantitas": "3171",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "62",
+		"penjualan_id": "62",
+		"produk_id": "22",
+		"kuantitas": "2010",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "63",
+		"penjualan_id": "63",
+		"produk_id": "23",
+		"kuantitas": "1958",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "64",
+		"penjualan_id": "64",
+		"produk_id": "24",
+		"kuantitas": "5010",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "65",
+		"penjualan_id": "65",
+		"produk_id": "25",
+		"kuantitas": "1900",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "66",
+		"penjualan_id": "66",
+		"produk_id": "26",
+		"kuantitas": "4300",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "67",
+		"penjualan_id": "67",
+		"produk_id": "27",
+		"kuantitas": "791",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "68",
+		"penjualan_id": "68",
+		"produk_id": "28",
+		"kuantitas": "500",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "69",
+		"penjualan_id": "69",
+		"produk_id": "29",
+		"kuantitas": "34",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "70",
+		"penjualan_id": "70",
+		"produk_id": "31",
+		"kuantitas": "694",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "71",
+		"penjualan_id": "71",
+		"produk_id": "32",
+		"kuantitas": "4448",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "72",
+		"penjualan_id": "72",
+		"produk_id": "33",
+		"kuantitas": "1718",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "73",
+		"penjualan_id": "73",
+		"produk_id": "34",
+		"kuantitas": "1873",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "74",
+		"penjualan_id": "74",
+		"produk_id": "36",
+		"kuantitas": "5",
+		"harga_satuan": "10750"
+	},
+	{
+		"id": "75",
+		"penjualan_id": "75",
+		"produk_id": "37",
+		"kuantitas": "45",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "76",
+		"penjualan_id": "76",
+		"produk_id": "41",
+		"kuantitas": "35",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "77",
+		"penjualan_id": "77",
+		"produk_id": "43",
+		"kuantitas": "4",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "78",
+		"penjualan_id": "78",
+		"produk_id": "44",
+		"kuantitas": "20",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "79",
+		"penjualan_id": "79",
+		"produk_id": "46",
+		"kuantitas": "41",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "80",
+		"penjualan_id": "80",
+		"produk_id": "48",
+		"kuantitas": "100",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "81",
+		"penjualan_id": "81",
+		"produk_id": "50",
+		"kuantitas": "400",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "82",
+		"penjualan_id": "82",
+		"produk_id": "2",
+		"kuantitas": "26",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "83",
+		"penjualan_id": "83",
+		"produk_id": "3",
+		"kuantitas": "40",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "84",
+		"penjualan_id": "84",
+		"produk_id": "4",
+		"kuantitas": "20",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "85",
+		"penjualan_id": "85",
+		"produk_id": "5",
+		"kuantitas": "11",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "86",
+		"penjualan_id": "86",
+		"produk_id": "7",
+		"kuantitas": "22",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "87",
+		"penjualan_id": "87",
+		"produk_id": "8",
+		"kuantitas": "9",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "88",
+		"penjualan_id": "88",
+		"produk_id": "9",
+		"kuantitas": "1",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "89",
+		"penjualan_id": "89",
+		"produk_id": "10",
+		"kuantitas": "64",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "90",
+		"penjualan_id": "90",
+		"produk_id": "11",
+		"kuantitas": "132",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "91",
+		"penjualan_id": "91",
+		"produk_id": "12",
+		"kuantitas": "5",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "92",
+		"penjualan_id": "92",
+		"produk_id": "13",
+		"kuantitas": "30",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "93",
+		"penjualan_id": "93",
+		"produk_id": "14",
+		"kuantitas": "40",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "94",
+		"penjualan_id": "94",
+		"produk_id": "15",
+		"kuantitas": "109",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "95",
+		"penjualan_id": "95",
+		"produk_id": "16",
+		"kuantitas": "80",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "96",
+		"penjualan_id": "96",
+		"produk_id": "17",
+		"kuantitas": "18",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "97",
+		"penjualan_id": "97",
+		"produk_id": "18",
+		"kuantitas": "120",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "98",
+		"penjualan_id": "98",
+		"produk_id": "19",
+		"kuantitas": "6",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "99",
+		"penjualan_id": "99",
+		"produk_id": "21",
+		"kuantitas": "1750",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "100",
+		"penjualan_id": "100",
+		"produk_id": "22",
+		"kuantitas": "410",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "101",
+		"penjualan_id": "101",
+		"produk_id": "23",
+		"kuantitas": "2458",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "102",
+		"penjualan_id": "102",
+		"produk_id": "24",
+		"kuantitas": "5210",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "103",
+		"penjualan_id": "103",
+		"produk_id": "25",
+		"kuantitas": "800",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "104",
+		"penjualan_id": "104",
+		"produk_id": "26",
+		"kuantitas": "4700",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "105",
+		"penjualan_id": "105",
+		"produk_id": "27",
+		"kuantitas": "1061",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "106",
+		"penjualan_id": "106",
+		"produk_id": "28",
+		"kuantitas": "1100",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "107",
+		"penjualan_id": "107",
+		"produk_id": "29",
+		"kuantitas": "4",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "108",
+		"penjualan_id": "108",
+		"produk_id": "31",
+		"kuantitas": "704",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "109",
+		"penjualan_id": "109",
+		"produk_id": "32",
+		"kuantitas": "3017",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "110",
+		"penjualan_id": "110",
+		"produk_id": "33",
+		"kuantitas": "600",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "111",
+		"penjualan_id": "111",
+		"produk_id": "34",
+		"kuantitas": "1263",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "112",
+		"penjualan_id": "112",
+		"produk_id": "35",
+		"kuantitas": "300",
+		"harga_satuan": "770"
+	},
+	{
+		"id": "113",
+		"penjualan_id": "113",
+		"produk_id": "37",
+		"kuantitas": "45",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "114",
+		"penjualan_id": "114",
+		"produk_id": "39",
+		"kuantitas": "1",
+		"harga_satuan": "7500"
+	},
+	{
+		"id": "115",
+		"penjualan_id": "115",
+		"produk_id": "40",
+		"kuantitas": "5",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "116",
+		"penjualan_id": "116",
+		"produk_id": "41",
+		"kuantitas": "46",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "117",
+		"penjualan_id": "117",
+		"produk_id": "44",
+		"kuantitas": "20",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "118",
+		"penjualan_id": "118",
+		"produk_id": "45",
+		"kuantitas": "5",
+		"harga_satuan": "58500"
+	},
+	{
+		"id": "119",
+		"penjualan_id": "119",
+		"produk_id": "46",
+		"kuantitas": "36",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "120",
+		"penjualan_id": "120",
+		"produk_id": "48",
+		"kuantitas": "200",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "121",
+		"penjualan_id": "121",
+		"produk_id": "50",
+		"kuantitas": "200",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "122",
+		"penjualan_id": "122",
+		"produk_id": "1",
+		"kuantitas": "5",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "123",
+		"penjualan_id": "123",
+		"produk_id": "2",
+		"kuantitas": "46",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "124",
+		"penjualan_id": "124",
+		"produk_id": "3",
+		"kuantitas": "47",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "125",
+		"penjualan_id": "125",
+		"produk_id": "4",
+		"kuantitas": "5",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "126",
+		"penjualan_id": "126",
+		"produk_id": "5",
+		"kuantitas": "21",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "127",
+		"penjualan_id": "127",
+		"produk_id": "6",
+		"kuantitas": "4",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "128",
+		"penjualan_id": "128",
+		"produk_id": "7",
+		"kuantitas": "42",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "129",
+		"penjualan_id": "129",
+		"produk_id": "8",
+		"kuantitas": "5",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "130",
+		"penjualan_id": "130",
+		"produk_id": "9",
+		"kuantitas": "12",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "131",
+		"penjualan_id": "131",
+		"produk_id": "10",
+		"kuantitas": "47",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "132",
+		"penjualan_id": "132",
+		"produk_id": "11",
+		"kuantitas": "14",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "133",
+		"penjualan_id": "133",
+		"produk_id": "12",
+		"kuantitas": "27",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "134",
+		"penjualan_id": "134",
+		"produk_id": "13",
+		"kuantitas": "21",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "135",
+		"penjualan_id": "135",
+		"produk_id": "14",
+		"kuantitas": "34",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "136",
+		"penjualan_id": "136",
+		"produk_id": "15",
+		"kuantitas": "134",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "137",
+		"penjualan_id": "137",
+		"produk_id": "16",
+		"kuantitas": "46",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "138",
+		"penjualan_id": "138",
+		"produk_id": "17",
+		"kuantitas": "18",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "139",
+		"penjualan_id": "139",
+		"produk_id": "18",
+		"kuantitas": "74",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "140",
+		"penjualan_id": "140",
+		"produk_id": "19",
+		"kuantitas": "4",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "141",
+		"penjualan_id": "141",
+		"produk_id": "20",
+		"kuantitas": "2",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "142",
+		"penjualan_id": "142",
+		"produk_id": "21",
+		"kuantitas": "1650",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "143",
+		"penjualan_id": "143",
+		"produk_id": "22",
+		"kuantitas": "920",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "144",
+		"penjualan_id": "144",
+		"produk_id": "23",
+		"kuantitas": "2370",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "145",
+		"penjualan_id": "145",
+		"produk_id": "24",
+		"kuantitas": "4970",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "146",
+		"penjualan_id": "146",
+		"produk_id": "25",
+		"kuantitas": "2940",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "147",
+		"penjualan_id": "147",
+		"produk_id": "26",
+		"kuantitas": "4120",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "148",
+		"penjualan_id": "148",
+		"produk_id": "27",
+		"kuantitas": "1592",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "149",
+		"penjualan_id": "149",
+		"produk_id": "28",
+		"kuantitas": "900",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "150",
+		"penjualan_id": "150",
+		"produk_id": "30",
+		"kuantitas": "102",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "151",
+		"penjualan_id": "151",
+		"produk_id": "31",
+		"kuantitas": "300",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "152",
+		"penjualan_id": "152",
+		"produk_id": "32",
+		"kuantitas": "4320",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "153",
+		"penjualan_id": "153",
+		"produk_id": "33",
+		"kuantitas": "2310",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "154",
+		"penjualan_id": "154",
+		"produk_id": "34",
+		"kuantitas": "2596",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "155",
+		"penjualan_id": "155",
+		"produk_id": "36",
+		"kuantitas": "2",
+		"harga_satuan": "10750"
+	},
+	{
+		"id": "156",
+		"penjualan_id": "156",
+		"produk_id": "37",
+		"kuantitas": "58",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "157",
+		"penjualan_id": "157",
+		"produk_id": "40",
+		"kuantitas": "5",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "158",
+		"penjualan_id": "158",
+		"produk_id": "41",
+		"kuantitas": "10",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "159",
+		"penjualan_id": "159",
+		"produk_id": "42",
+		"kuantitas": "36",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "160",
+		"penjualan_id": "160",
+		"produk_id": "43",
+		"kuantitas": "210",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "161",
+		"penjualan_id": "161",
+		"produk_id": "46",
+		"kuantitas": "36",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "162",
+		"penjualan_id": "162",
+		"produk_id": "48",
+		"kuantitas": "300",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "163",
+		"penjualan_id": "163",
+		"produk_id": "50",
+		"kuantitas": "650",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "164",
+		"penjualan_id": "164",
+		"produk_id": "1",
+		"kuantitas": "20",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "165",
+		"penjualan_id": "165",
+		"produk_id": "2",
+		"kuantitas": "68",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "166",
+		"penjualan_id": "166",
+		"produk_id": "3",
+		"kuantitas": "38",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "167",
+		"penjualan_id": "167",
+		"produk_id": "5",
+		"kuantitas": "28",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "168",
+		"penjualan_id": "168",
+		"produk_id": "6",
+		"kuantitas": "13",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "169",
+		"penjualan_id": "169",
+		"produk_id": "7",
+		"kuantitas": "48",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "170",
+		"penjualan_id": "170",
+		"produk_id": "8",
+		"kuantitas": "7",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "171",
+		"penjualan_id": "171",
+		"produk_id": "9",
+		"kuantitas": "7",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "172",
+		"penjualan_id": "172",
+		"produk_id": "10",
+		"kuantitas": "2",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "173",
+		"penjualan_id": "173",
+		"produk_id": "11",
+		"kuantitas": "40",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "174",
+		"penjualan_id": "174",
+		"produk_id": "12",
+		"kuantitas": "16",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "175",
+		"penjualan_id": "175",
+		"produk_id": "13",
+		"kuantitas": "3",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "176",
+		"penjualan_id": "176",
+		"produk_id": "14",
+		"kuantitas": "54",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "177",
+		"penjualan_id": "177",
+		"produk_id": "15",
+		"kuantitas": "189",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "178",
+		"penjualan_id": "178",
+		"produk_id": "16",
+		"kuantitas": "282",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "179",
+		"penjualan_id": "179",
+		"produk_id": "18",
+		"kuantitas": "170",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "180",
+		"penjualan_id": "180",
+		"produk_id": "19",
+		"kuantitas": "19",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "181",
+		"penjualan_id": "181",
+		"produk_id": "20",
+		"kuantitas": "5",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "182",
+		"penjualan_id": "182",
+		"produk_id": "21",
+		"kuantitas": "5856",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "183",
+		"penjualan_id": "183",
+		"produk_id": "22",
+		"kuantitas": "2545",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "184",
+		"penjualan_id": "184",
+		"produk_id": "23",
+		"kuantitas": "4230",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "185",
+		"penjualan_id": "185",
+		"produk_id": "24",
+		"kuantitas": "5460",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "186",
+		"penjualan_id": "186",
+		"produk_id": "25",
+		"kuantitas": "800",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "187",
+		"penjualan_id": "187",
+		"produk_id": "26",
+		"kuantitas": "4640",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "188",
+		"penjualan_id": "188",
+		"produk_id": "27",
+		"kuantitas": "2976",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "189",
+		"penjualan_id": "189",
+		"produk_id": "28",
+		"kuantitas": "1500",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "190",
+		"penjualan_id": "190",
+		"produk_id": "29",
+		"kuantitas": "2285",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "191",
+		"penjualan_id": "191",
+		"produk_id": "30",
+		"kuantitas": "15",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "192",
+		"penjualan_id": "192",
+		"produk_id": "31",
+		"kuantitas": "480",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "193",
+		"penjualan_id": "193",
+		"produk_id": "32",
+		"kuantitas": "4899",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "194",
+		"penjualan_id": "194",
+		"produk_id": "33",
+		"kuantitas": "2032",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "195",
+		"penjualan_id": "195",
+		"produk_id": "34",
+		"kuantitas": "4010",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "196",
+		"penjualan_id": "196",
+		"produk_id": "35",
+		"kuantitas": "280",
+		"harga_satuan": "770"
+	},
+	{
+		"id": "197",
+		"penjualan_id": "197",
+		"produk_id": "36",
+		"kuantitas": "1",
+		"harga_satuan": "10750"
+	},
+	{
+		"id": "198",
+		"penjualan_id": "198",
+		"produk_id": "37",
+		"kuantitas": "31",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "199",
+		"penjualan_id": "199",
+		"produk_id": "38",
+		"kuantitas": "6",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "200",
+		"penjualan_id": "200",
+		"produk_id": "40",
+		"kuantitas": "8",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "201",
+		"penjualan_id": "201",
+		"produk_id": "41",
+		"kuantitas": "32",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "202",
+		"penjualan_id": "202",
+		"produk_id": "43",
+		"kuantitas": "98",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "203",
+		"penjualan_id": "203",
+		"produk_id": "44",
+		"kuantitas": "20",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "204",
+		"penjualan_id": "204",
+		"produk_id": "45",
+		"kuantitas": "2",
+		"harga_satuan": "58500"
+	},
+	{
+		"id": "205",
+		"penjualan_id": "205",
+		"produk_id": "46",
+		"kuantitas": "26",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "206",
+		"penjualan_id": "206",
+		"produk_id": "48",
+		"kuantitas": "77",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "207",
+		"penjualan_id": "207",
+		"produk_id": "1",
+		"kuantitas": "5",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "208",
+		"penjualan_id": "208",
+		"produk_id": "2",
+		"kuantitas": "74",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "209",
+		"penjualan_id": "209",
+		"produk_id": "3",
+		"kuantitas": "10",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "210",
+		"penjualan_id": "210",
+		"produk_id": "5",
+		"kuantitas": "10",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "211",
+		"penjualan_id": "211",
+		"produk_id": "6",
+		"kuantitas": "2",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "212",
+		"penjualan_id": "212",
+		"produk_id": "7",
+		"kuantitas": "5",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "213",
+		"penjualan_id": "213",
+		"produk_id": "8",
+		"kuantitas": "2",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "214",
+		"penjualan_id": "214",
+		"produk_id": "9",
+		"kuantitas": "2",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "215",
+		"penjualan_id": "215",
+		"produk_id": "10",
+		"kuantitas": "20",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "216",
+		"penjualan_id": "216",
+		"produk_id": "11",
+		"kuantitas": "54",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "217",
+		"penjualan_id": "217",
+		"produk_id": "12",
+		"kuantitas": "27",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "218",
+		"penjualan_id": "218",
+		"produk_id": "13",
+		"kuantitas": "24",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "219",
+		"penjualan_id": "219",
+		"produk_id": "14",
+		"kuantitas": "20",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "220",
+		"penjualan_id": "220",
+		"produk_id": "15",
+		"kuantitas": "192",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "221",
+		"penjualan_id": "221",
+		"produk_id": "16",
+		"kuantitas": "94",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "222",
+		"penjualan_id": "222",
+		"produk_id": "17",
+		"kuantitas": "2",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "223",
+		"penjualan_id": "223",
+		"produk_id": "18",
+		"kuantitas": "82",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "224",
+		"penjualan_id": "224",
+		"produk_id": "19",
+		"kuantitas": "3",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "225",
+		"penjualan_id": "225",
+		"produk_id": "21",
+		"kuantitas": "3090",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "226",
+		"penjualan_id": "226",
+		"produk_id": "22",
+		"kuantitas": "1970",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "227",
+		"penjualan_id": "227",
+		"produk_id": "23",
+		"kuantitas": "1958",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "228",
+		"penjualan_id": "228",
+		"produk_id": "24",
+		"kuantitas": "6140",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "229",
+		"penjualan_id": "229",
+		"produk_id": "25",
+		"kuantitas": "1400",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "230",
+		"penjualan_id": "230",
+		"produk_id": "26",
+		"kuantitas": "4300",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "231",
+		"penjualan_id": "231",
+		"produk_id": "27",
+		"kuantitas": "791",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "232",
+		"penjualan_id": "232",
+		"produk_id": "28",
+		"kuantitas": "500",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "233",
+		"penjualan_id": "233",
+		"produk_id": "29",
+		"kuantitas": "34",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "234",
+		"penjualan_id": "234",
+		"produk_id": "31",
+		"kuantitas": "694",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "235",
+		"penjualan_id": "235",
+		"produk_id": "32",
+		"kuantitas": "4448",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "236",
+		"penjualan_id": "236",
+		"produk_id": "33",
+		"kuantitas": "1718",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "237",
+		"penjualan_id": "237",
+		"produk_id": "34",
+		"kuantitas": "1873",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "238",
+		"penjualan_id": "238",
+		"produk_id": "37",
+		"kuantitas": "45",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "239",
+		"penjualan_id": "239",
+		"produk_id": "41",
+		"kuantitas": "35",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "240",
+		"penjualan_id": "240",
+		"produk_id": "43",
+		"kuantitas": "4",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "241",
+		"penjualan_id": "241",
+		"produk_id": "44",
+		"kuantitas": "20",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "242",
+		"penjualan_id": "242",
+		"produk_id": "46",
+		"kuantitas": "41",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "243",
+		"penjualan_id": "243",
+		"produk_id": "48",
+		"kuantitas": "100",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "244",
+		"penjualan_id": "244",
+		"produk_id": "50",
+		"kuantitas": "400",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "245",
+		"penjualan_id": "245",
+		"produk_id": "1",
+		"kuantitas": "50",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "246",
+		"penjualan_id": "246",
+		"produk_id": "2",
+		"kuantitas": "59",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "247",
+		"penjualan_id": "247",
+		"produk_id": "3",
+		"kuantitas": "25",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "248",
+		"penjualan_id": "248",
+		"produk_id": "4",
+		"kuantitas": "9",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "249",
+		"penjualan_id": "249",
+		"produk_id": "5",
+		"kuantitas": "27",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "250",
+		"penjualan_id": "250",
+		"produk_id": "6",
+		"kuantitas": "4",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "251",
+		"penjualan_id": "251",
+		"produk_id": "7",
+		"kuantitas": "10",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "252",
+		"penjualan_id": "252",
+		"produk_id": "8",
+		"kuantitas": "6",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "253",
+		"penjualan_id": "253",
+		"produk_id": "9",
+		"kuantitas": "11",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "254",
+		"penjualan_id": "254",
+		"produk_id": "10",
+		"kuantitas": "57",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "255",
+		"penjualan_id": "255",
+		"produk_id": "11",
+		"kuantitas": "20",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "256",
+		"penjualan_id": "256",
+		"produk_id": "12",
+		"kuantitas": "25",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "257",
+		"penjualan_id": "257",
+		"produk_id": "13",
+		"kuantitas": "5",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "258",
+		"penjualan_id": "258",
+		"produk_id": "14",
+		"kuantitas": "22",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "259",
+		"penjualan_id": "259",
+		"produk_id": "15",
+		"kuantitas": "184",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "260",
+		"penjualan_id": "260",
+		"produk_id": "16",
+		"kuantitas": "111",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "261",
+		"penjualan_id": "261",
+		"produk_id": "17",
+		"kuantitas": "46",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "262",
+		"penjualan_id": "262",
+		"produk_id": "18",
+		"kuantitas": "111",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "263",
+		"penjualan_id": "263",
+		"produk_id": "19",
+		"kuantitas": "7",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "264",
+		"penjualan_id": "264",
+		"produk_id": "20",
+		"kuantitas": "1",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "265",
+		"penjualan_id": "265",
+		"produk_id": "21",
+		"kuantitas": "1240",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "266",
+		"penjualan_id": "266",
+		"produk_id": "22",
+		"kuantitas": "500",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "267",
+		"penjualan_id": "267",
+		"produk_id": "23",
+		"kuantitas": "2150",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "268",
+		"penjualan_id": "268",
+		"produk_id": "24",
+		"kuantitas": "5570",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "269",
+		"penjualan_id": "269",
+		"produk_id": "25",
+		"kuantitas": "800",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "270",
+		"penjualan_id": "270",
+		"produk_id": "26",
+		"kuantitas": "2400",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "271",
+		"penjualan_id": "271",
+		"produk_id": "27",
+		"kuantitas": "726",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "272",
+		"penjualan_id": "272",
+		"produk_id": "28",
+		"kuantitas": "1600",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "273",
+		"penjualan_id": "273",
+		"produk_id": "31",
+		"kuantitas": "320",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "274",
+		"penjualan_id": "274",
+		"produk_id": "32",
+		"kuantitas": "1038",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "275",
+		"penjualan_id": "275",
+		"produk_id": "33",
+		"kuantitas": "1020",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "276",
+		"penjualan_id": "276",
+		"produk_id": "34",
+		"kuantitas": "1511",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "277",
+		"penjualan_id": "277",
+		"produk_id": "40",
+		"kuantitas": "4",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "278",
+		"penjualan_id": "278",
+		"produk_id": "41",
+		"kuantitas": "46",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "279",
+		"penjualan_id": "279",
+		"produk_id": "43",
+		"kuantitas": "25",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "280",
+		"penjualan_id": "280",
+		"produk_id": "45",
+		"kuantitas": "1",
+		"harga_satuan": "58500"
+	},
+	{
+		"id": "281",
+		"penjualan_id": "281",
+		"produk_id": "46",
+		"kuantitas": "50",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "282",
+		"penjualan_id": "282",
+		"produk_id": "47",
+		"kuantitas": "3",
+		"harga_satuan": "9900"
+	},
+	{
+		"id": "283",
+		"penjualan_id": "283",
+		"produk_id": "1",
+		"kuantitas": "15",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "284",
+		"penjualan_id": "284",
+		"produk_id": "2",
+		"kuantitas": "55",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "285",
+		"penjualan_id": "285",
+		"produk_id": "3",
+		"kuantitas": "68",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "286",
+		"penjualan_id": "286",
+		"produk_id": "5",
+		"kuantitas": "10",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "287",
+		"penjualan_id": "287",
+		"produk_id": "6",
+		"kuantitas": "7",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "288",
+		"penjualan_id": "288",
+		"produk_id": "7",
+		"kuantitas": "38",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "289",
+		"penjualan_id": "289",
+		"produk_id": "8",
+		"kuantitas": "8",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "290",
+		"penjualan_id": "290",
+		"produk_id": "9",
+		"kuantitas": "9",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "291",
+		"penjualan_id": "291",
+		"produk_id": "10",
+		"kuantitas": "55",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "292",
+		"penjualan_id": "292",
+		"produk_id": "11",
+		"kuantitas": "14",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "293",
+		"penjualan_id": "293",
+		"produk_id": "12",
+		"kuantitas": "16",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "294",
+		"penjualan_id": "294",
+		"produk_id": "13",
+		"kuantitas": "36",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "295",
+		"penjualan_id": "295",
+		"produk_id": "14",
+		"kuantitas": "45",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "296",
+		"penjualan_id": "296",
+		"produk_id": "15",
+		"kuantitas": "220",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "297",
+		"penjualan_id": "297",
+		"produk_id": "16",
+		"kuantitas": "146",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "298",
+		"penjualan_id": "298",
+		"produk_id": "17",
+		"kuantitas": "16",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "299",
+		"penjualan_id": "299",
+		"produk_id": "18",
+		"kuantitas": "30",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "300",
+		"penjualan_id": "300",
+		"produk_id": "19",
+		"kuantitas": "9",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "301",
+		"penjualan_id": "301",
+		"produk_id": "21",
+		"kuantitas": "2396",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "302",
+		"penjualan_id": "302",
+		"produk_id": "22",
+		"kuantitas": "1200",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "303",
+		"penjualan_id": "303",
+		"produk_id": "23",
+		"kuantitas": "2020",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "304",
+		"penjualan_id": "304",
+		"produk_id": "24",
+		"kuantitas": "7110",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "305",
+		"penjualan_id": "305",
+		"produk_id": "25",
+		"kuantitas": "110",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "306",
+		"penjualan_id": "306",
+		"produk_id": "26",
+		"kuantitas": "3700",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "307",
+		"penjualan_id": "307",
+		"produk_id": "27",
+		"kuantitas": "1332",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "308",
+		"penjualan_id": "308",
+		"produk_id": "28",
+		"kuantitas": "1000",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "309",
+		"penjualan_id": "309",
+		"produk_id": "29",
+		"kuantitas": "2000",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "310",
+		"penjualan_id": "310",
+		"produk_id": "31",
+		"kuantitas": "1200",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "311",
+		"penjualan_id": "311",
+		"produk_id": "32",
+		"kuantitas": "3909",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "312",
+		"penjualan_id": "312",
+		"produk_id": "33",
+		"kuantitas": "1710",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "313",
+		"penjualan_id": "313",
+		"produk_id": "34",
+		"kuantitas": "1940",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "314",
+		"penjualan_id": "314",
+		"produk_id": "35",
+		"kuantitas": "210",
+		"harga_satuan": "770"
+	},
+	{
+		"id": "315",
+		"penjualan_id": "315",
+		"produk_id": "37",
+		"kuantitas": "145",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "316",
+		"penjualan_id": "316",
+		"produk_id": "40",
+		"kuantitas": "13",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "317",
+		"penjualan_id": "317",
+		"produk_id": "41",
+		"kuantitas": "24",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "318",
+		"penjualan_id": "318",
+		"produk_id": "42",
+		"kuantitas": "16",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "319",
+		"penjualan_id": "319",
+		"produk_id": "2",
+		"kuantitas": "56",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "320",
+		"penjualan_id": "320",
+		"produk_id": "3",
+		"kuantitas": "20",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "321",
+		"penjualan_id": "321",
+		"produk_id": "5",
+		"kuantitas": "6",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "322",
+		"penjualan_id": "322",
+		"produk_id": "7",
+		"kuantitas": "40",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "323",
+		"penjualan_id": "323",
+		"produk_id": "8",
+		"kuantitas": "7",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "324",
+		"penjualan_id": "324",
+		"produk_id": "9",
+		"kuantitas": "3",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "325",
+		"penjualan_id": "325",
+		"produk_id": "10",
+		"kuantitas": "61",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "326",
+		"penjualan_id": "326",
+		"produk_id": "11",
+		"kuantitas": "30",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "327",
+		"penjualan_id": "327",
+		"produk_id": "12",
+		"kuantitas": "25",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "328",
+		"penjualan_id": "328",
+		"produk_id": "13",
+		"kuantitas": "18",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "329",
+		"penjualan_id": "329",
+		"produk_id": "14",
+		"kuantitas": "11",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "330",
+		"penjualan_id": "330",
+		"produk_id": "15",
+		"kuantitas": "197",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "331",
+		"penjualan_id": "331",
+		"produk_id": "16",
+		"kuantitas": "130",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "332",
+		"penjualan_id": "332",
+		"produk_id": "18",
+		"kuantitas": "95",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "333",
+		"penjualan_id": "333",
+		"produk_id": "19",
+		"kuantitas": "8",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "334",
+		"penjualan_id": "334",
+		"produk_id": "21",
+		"kuantitas": "2110",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "335",
+		"penjualan_id": "335",
+		"produk_id": "22",
+		"kuantitas": "1210",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "336",
+		"penjualan_id": "336",
+		"produk_id": "23",
+		"kuantitas": "3055",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "337",
+		"penjualan_id": "337",
+		"produk_id": "24",
+		"kuantitas": "6240",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "338",
+		"penjualan_id": "338",
+		"produk_id": "25",
+		"kuantitas": "1710",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "339",
+		"penjualan_id": "339",
+		"produk_id": "26",
+		"kuantitas": "5400",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "340",
+		"penjualan_id": "340",
+		"produk_id": "27",
+		"kuantitas": "1459",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "341",
+		"penjualan_id": "341",
+		"produk_id": "28",
+		"kuantitas": "1000",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "342",
+		"penjualan_id": "342",
+		"produk_id": "31",
+		"kuantitas": "900",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "343",
+		"penjualan_id": "343",
+		"produk_id": "32",
+		"kuantitas": "3625",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "344",
+		"penjualan_id": "344",
+		"produk_id": "33",
+		"kuantitas": "2020",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "345",
+		"penjualan_id": "345",
+		"produk_id": "34",
+		"kuantitas": "1415",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "346",
+		"penjualan_id": "346",
+		"produk_id": "35",
+		"kuantitas": "10",
+		"harga_satuan": "770"
+	},
+	{
+		"id": "347",
+		"penjualan_id": "347",
+		"produk_id": "37",
+		"kuantitas": "32",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "348",
+		"penjualan_id": "348",
+		"produk_id": "40",
+		"kuantitas": "40",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "349",
+		"penjualan_id": "349",
+		"produk_id": "41",
+		"kuantitas": "27",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "350",
+		"penjualan_id": "350",
+		"produk_id": "42",
+		"kuantitas": "60",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "351",
+		"penjualan_id": "351",
+		"produk_id": "43",
+		"kuantitas": "425",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "352",
+		"penjualan_id": "352",
+		"produk_id": "46",
+		"kuantitas": "76",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "353",
+		"penjualan_id": "353",
+		"produk_id": "47",
+		"kuantitas": "2",
+		"harga_satuan": "9900"
+	},
+	{
+		"id": "354",
+		"penjualan_id": "354",
+		"produk_id": "48",
+		"kuantitas": "300",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "355",
+		"penjualan_id": "355",
+		"produk_id": "50",
+		"kuantitas": "604",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "356",
+		"penjualan_id": "356",
+		"produk_id": "2",
+		"kuantitas": "67",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "357",
+		"penjualan_id": "357",
+		"produk_id": "3",
+		"kuantitas": "78",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "358",
+		"penjualan_id": "358",
+		"produk_id": "5",
+		"kuantitas": "21",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "359",
+		"penjualan_id": "359",
+		"produk_id": "6",
+		"kuantitas": "4",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "360",
+		"penjualan_id": "360",
+		"produk_id": "7",
+		"kuantitas": "46",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "361",
+		"penjualan_id": "361",
+		"produk_id": "8",
+		"kuantitas": "6",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "362",
+		"penjualan_id": "362",
+		"produk_id": "9",
+		"kuantitas": "14",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "363",
+		"penjualan_id": "363",
+		"produk_id": "10",
+		"kuantitas": "57",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "364",
+		"penjualan_id": "364",
+		"produk_id": "11",
+		"kuantitas": "30",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "365",
+		"penjualan_id": "365",
+		"produk_id": "12",
+		"kuantitas": "41",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "366",
+		"penjualan_id": "366",
+		"produk_id": "13",
+		"kuantitas": "21",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "367",
+		"penjualan_id": "367",
+		"produk_id": "14",
+		"kuantitas": "35",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "368",
+		"penjualan_id": "368",
+		"produk_id": "15",
+		"kuantitas": "160",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "369",
+		"penjualan_id": "369",
+		"produk_id": "16",
+		"kuantitas": "99",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "370",
+		"penjualan_id": "370",
+		"produk_id": "17",
+		"kuantitas": "18",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "371",
+		"penjualan_id": "371",
+		"produk_id": "18",
+		"kuantitas": "74",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "372",
+		"penjualan_id": "372",
+		"produk_id": "19",
+		"kuantitas": "3",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "373",
+		"penjualan_id": "373",
+		"produk_id": "20",
+		"kuantitas": "1",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "374",
+		"penjualan_id": "374",
+		"produk_id": "21",
+		"kuantitas": "2360",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "375",
+		"penjualan_id": "375",
+		"produk_id": "22",
+		"kuantitas": "920",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "376",
+		"penjualan_id": "376",
+		"produk_id": "23",
+		"kuantitas": "2370",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "377",
+		"penjualan_id": "377",
+		"produk_id": "24",
+		"kuantitas": "6400",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "378",
+		"penjualan_id": "378",
+		"produk_id": "25",
+		"kuantitas": "3030",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "379",
+		"penjualan_id": "379",
+		"produk_id": "26",
+		"kuantitas": "5130",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "380",
+		"penjualan_id": "380",
+		"produk_id": "27",
+		"kuantitas": "1592",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "381",
+		"penjualan_id": "381",
+		"produk_id": "28",
+		"kuantitas": "900",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "382",
+		"penjualan_id": "382",
+		"produk_id": "30",
+		"kuantitas": "102",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "383",
+		"penjualan_id": "383",
+		"produk_id": "31",
+		"kuantitas": "300",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "384",
+		"penjualan_id": "384",
+		"produk_id": "32",
+		"kuantitas": "4414",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "385",
+		"penjualan_id": "385",
+		"produk_id": "33",
+		"kuantitas": "2309",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "386",
+		"penjualan_id": "386",
+		"produk_id": "34",
+		"kuantitas": "2846",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "387",
+		"penjualan_id": "387",
+		"produk_id": "36",
+		"kuantitas": "2",
+		"harga_satuan": "10750"
+	},
+	{
+		"id": "388",
+		"penjualan_id": "388",
+		"produk_id": "37",
+		"kuantitas": "58",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "389",
+		"penjualan_id": "389",
+		"produk_id": "40",
+		"kuantitas": "14",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "390",
+		"penjualan_id": "390",
+		"produk_id": "41",
+		"kuantitas": "42",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "391",
+		"penjualan_id": "391",
+		"produk_id": "42",
+		"kuantitas": "36",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "392",
+		"penjualan_id": "392",
+		"produk_id": "43",
+		"kuantitas": "202",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "393",
+		"penjualan_id": "393",
+		"produk_id": "46",
+		"kuantitas": "36",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "394",
+		"penjualan_id": "394",
+		"produk_id": "48",
+		"kuantitas": "300",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "395",
+		"penjualan_id": "395",
+		"produk_id": "50",
+		"kuantitas": "703",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "396",
+		"penjualan_id": "396",
+		"produk_id": "2",
+		"kuantitas": "63",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "397",
+		"penjualan_id": "397",
+		"produk_id": "3",
+		"kuantitas": "12",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "398",
+		"penjualan_id": "398",
+		"produk_id": "4",
+		"kuantitas": "2",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "399",
+		"penjualan_id": "399",
+		"produk_id": "5",
+		"kuantitas": "11",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "400",
+		"penjualan_id": "400",
+		"produk_id": "6",
+		"kuantitas": "1",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "401",
+		"penjualan_id": "401",
+		"produk_id": "7",
+		"kuantitas": "42",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "402",
+		"penjualan_id": "402",
+		"produk_id": "8",
+		"kuantitas": "4",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "403",
+		"penjualan_id": "403",
+		"produk_id": "9",
+		"kuantitas": "11",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "404",
+		"penjualan_id": "404",
+		"produk_id": "10",
+		"kuantitas": "31",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "405",
+		"penjualan_id": "405",
+		"produk_id": "11",
+		"kuantitas": "15",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "406",
+		"penjualan_id": "406",
+		"produk_id": "12",
+		"kuantitas": "76",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "407",
+		"penjualan_id": "407",
+		"produk_id": "13",
+		"kuantitas": "35",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "408",
+		"penjualan_id": "408",
+		"produk_id": "14",
+		"kuantitas": "41",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "409",
+		"penjualan_id": "409",
+		"produk_id": "15",
+		"kuantitas": "164",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "410",
+		"penjualan_id": "410",
+		"produk_id": "16",
+		"kuantitas": "168",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "411",
+		"penjualan_id": "411",
+		"produk_id": "17",
+		"kuantitas": "67",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "412",
+		"penjualan_id": "412",
+		"produk_id": "18",
+		"kuantitas": "14",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "413",
+		"penjualan_id": "413",
+		"produk_id": "19",
+		"kuantitas": "3",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "414",
+		"penjualan_id": "414",
+		"produk_id": "20",
+		"kuantitas": "2",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "415",
+		"penjualan_id": "415",
+		"produk_id": "21",
+		"kuantitas": "2635",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "416",
+		"penjualan_id": "416",
+		"produk_id": "22",
+		"kuantitas": "1500",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "417",
+		"penjualan_id": "417",
+		"produk_id": "23",
+		"kuantitas": "3050",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "418",
+		"penjualan_id": "418",
+		"produk_id": "24",
+		"kuantitas": "5220",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "419",
+		"penjualan_id": "419",
+		"produk_id": "25",
+		"kuantitas": "2900",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "420",
+		"penjualan_id": "420",
+		"produk_id": "26",
+		"kuantitas": "5430",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "421",
+		"penjualan_id": "421",
+		"produk_id": "27",
+		"kuantitas": "2464",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "422",
+		"penjualan_id": "422",
+		"produk_id": "28",
+		"kuantitas": "700",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "423",
+		"penjualan_id": "423",
+		"produk_id": "31",
+		"kuantitas": "1916",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "424",
+		"penjualan_id": "424",
+		"produk_id": "32",
+		"kuantitas": "3007",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "425",
+		"penjualan_id": "425",
+		"produk_id": "33",
+		"kuantitas": "2000",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "426",
+		"penjualan_id": "426",
+		"produk_id": "34",
+		"kuantitas": "2842",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "427",
+		"penjualan_id": "427",
+		"produk_id": "40",
+		"kuantitas": "44",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "428",
+		"penjualan_id": "428",
+		"produk_id": "41",
+		"kuantitas": "25",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "429",
+		"penjualan_id": "429",
+		"produk_id": "42",
+		"kuantitas": "15",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "430",
+		"penjualan_id": "430",
+		"produk_id": "44",
+		"kuantitas": "60",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "431",
+		"penjualan_id": "431",
+		"produk_id": "46",
+		"kuantitas": "82",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "432",
+		"penjualan_id": "432",
+		"produk_id": "47",
+		"kuantitas": "8",
+		"harga_satuan": "9900"
+	},
+	{
+		"id": "433",
+		"penjualan_id": "433",
+		"produk_id": "48",
+		"kuantitas": "200",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "434",
+		"penjualan_id": "434",
+		"produk_id": "50",
+		"kuantitas": "902",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "435",
+		"penjualan_id": "435",
+		"produk_id": "2",
+		"kuantitas": "57",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "436",
+		"penjualan_id": "436",
+		"produk_id": "3",
+		"kuantitas": "3",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "437",
+		"penjualan_id": "437",
+		"produk_id": "4",
+		"kuantitas": "4",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "438",
+		"penjualan_id": "438",
+		"produk_id": "5",
+		"kuantitas": "10",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "439",
+		"penjualan_id": "439",
+		"produk_id": "6",
+		"kuantitas": "2",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "440",
+		"penjualan_id": "440",
+		"produk_id": "7",
+		"kuantitas": "37",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "441",
+		"penjualan_id": "441",
+		"produk_id": "8",
+		"kuantitas": "4",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "442",
+		"penjualan_id": "442",
+		"produk_id": "9",
+		"kuantitas": "10",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "443",
+		"penjualan_id": "443",
+		"produk_id": "10",
+		"kuantitas": "20",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "444",
+		"penjualan_id": "444",
+		"produk_id": "11",
+		"kuantitas": "17",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "445",
+		"penjualan_id": "445",
+		"produk_id": "12",
+		"kuantitas": "64",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "446",
+		"penjualan_id": "446",
+		"produk_id": "13",
+		"kuantitas": "32",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "447",
+		"penjualan_id": "447",
+		"produk_id": "14",
+		"kuantitas": "37",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "448",
+		"penjualan_id": "448",
+		"produk_id": "15",
+		"kuantitas": "172",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "449",
+		"penjualan_id": "449",
+		"produk_id": "16",
+		"kuantitas": "167",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "450",
+		"penjualan_id": "450",
+		"produk_id": "17",
+		"kuantitas": "76",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "451",
+		"penjualan_id": "451",
+		"produk_id": "18",
+		"kuantitas": "14",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "452",
+		"penjualan_id": "452",
+		"produk_id": "19",
+		"kuantitas": "3",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "453",
+		"penjualan_id": "453",
+		"produk_id": "20",
+		"kuantitas": "2",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "454",
+		"penjualan_id": "454",
+		"produk_id": "21",
+		"kuantitas": "2440",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "455",
+		"penjualan_id": "455",
+		"produk_id": "22",
+		"kuantitas": "1460",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "456",
+		"penjualan_id": "456",
+		"produk_id": "23",
+		"kuantitas": "2650",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "457",
+		"penjualan_id": "457",
+		"produk_id": "24",
+		"kuantitas": "5610",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "458",
+		"penjualan_id": "458",
+		"produk_id": "25",
+		"kuantitas": "2700",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "459",
+		"penjualan_id": "459",
+		"produk_id": "26",
+		"kuantitas": "5430",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "460",
+		"penjualan_id": "460",
+		"produk_id": "27",
+		"kuantitas": "2464",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "461",
+		"penjualan_id": "461",
+		"produk_id": "28",
+		"kuantitas": "670",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "462",
+		"penjualan_id": "462",
+		"produk_id": "31",
+		"kuantitas": "1916",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "463",
+		"penjualan_id": "463",
+		"produk_id": "32",
+		"kuantitas": "2800",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "464",
+		"penjualan_id": "464",
+		"produk_id": "33",
+		"kuantitas": "1880",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "465",
+		"penjualan_id": "465",
+		"produk_id": "34",
+		"kuantitas": "2820",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "466",
+		"penjualan_id": "466",
+		"produk_id": "40",
+		"kuantitas": "30",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "467",
+		"penjualan_id": "467",
+		"produk_id": "41",
+		"kuantitas": "25",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "468",
+		"penjualan_id": "468",
+		"produk_id": "42",
+		"kuantitas": "15",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "469",
+		"penjualan_id": "469",
+		"produk_id": "44",
+		"kuantitas": "60",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "470",
+		"penjualan_id": "470",
+		"produk_id": "46",
+		"kuantitas": "82",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "471",
+		"penjualan_id": "471",
+		"produk_id": "47",
+		"kuantitas": "8",
+		"harga_satuan": "9900"
+	},
+	{
+		"id": "472",
+		"penjualan_id": "472",
+		"produk_id": "48",
+		"kuantitas": "200",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "473",
+		"penjualan_id": "473",
+		"produk_id": "50",
+		"kuantitas": "902",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "474",
+		"penjualan_id": "474",
+		"produk_id": "1",
+		"kuantitas": "40",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "475",
+		"penjualan_id": "475",
+		"produk_id": "2",
+		"kuantitas": "46",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "476",
+		"penjualan_id": "476",
+		"produk_id": "3",
+		"kuantitas": "4",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "477",
+		"penjualan_id": "477",
+		"produk_id": "4",
+		"kuantitas": "7",
+		"harga_satuan": "12800"
+	},
+	{
+		"id": "478",
+		"penjualan_id": "478",
+		"produk_id": "5",
+		"kuantitas": "27",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "479",
+		"penjualan_id": "479",
+		"produk_id": "6",
+		"kuantitas": "4",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "480",
+		"penjualan_id": "480",
+		"produk_id": "7",
+		"kuantitas": "10",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "481",
+		"penjualan_id": "481",
+		"produk_id": "8",
+		"kuantitas": "6",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "482",
+		"penjualan_id": "482",
+		"produk_id": "9",
+		"kuantitas": "11",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "483",
+		"penjualan_id": "483",
+		"produk_id": "10",
+		"kuantitas": "57",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "484",
+		"penjualan_id": "484",
+		"produk_id": "11",
+		"kuantitas": "14",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "485",
+		"penjualan_id": "485",
+		"produk_id": "12",
+		"kuantitas": "24",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "486",
+		"penjualan_id": "486",
+		"produk_id": "13",
+		"kuantitas": "8",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "487",
+		"penjualan_id": "487",
+		"produk_id": "14",
+		"kuantitas": "18",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "488",
+		"penjualan_id": "488",
+		"produk_id": "15",
+		"kuantitas": "186",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "489",
+		"penjualan_id": "489",
+		"produk_id": "16",
+		"kuantitas": "101",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "490",
+		"penjualan_id": "490",
+		"produk_id": "17",
+		"kuantitas": "4",
+		"harga_satuan": "2700"
+	},
+	{
+		"id": "491",
+		"penjualan_id": "491",
+		"produk_id": "18",
+		"kuantitas": "88",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "492",
+		"penjualan_id": "492",
+		"produk_id": "19",
+		"kuantitas": "7",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "493",
+		"penjualan_id": "493",
+		"produk_id": "20",
+		"kuantitas": "1",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "494",
+		"penjualan_id": "494",
+		"produk_id": "21",
+		"kuantitas": "1240",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "495",
+		"penjualan_id": "495",
+		"produk_id": "22",
+		"kuantitas": "500",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "496",
+		"penjualan_id": "496",
+		"produk_id": "23",
+		"kuantitas": "2150",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "497",
+		"penjualan_id": "497",
+		"produk_id": "24",
+		"kuantitas": "5270",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "498",
+		"penjualan_id": "498",
+		"produk_id": "25",
+		"kuantitas": "800",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "499",
+		"penjualan_id": "499",
+		"produk_id": "26",
+		"kuantitas": "2400",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "500",
+		"penjualan_id": "500",
+		"produk_id": "27",
+		"kuantitas": "726",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "501",
+		"penjualan_id": "501",
+		"produk_id": "28",
+		"kuantitas": "1600",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "502",
+		"penjualan_id": "502",
+		"produk_id": "30",
+		"kuantitas": "10",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "503",
+		"penjualan_id": "503",
+		"produk_id": "31",
+		"kuantitas": "320",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "504",
+		"penjualan_id": "504",
+		"produk_id": "32",
+		"kuantitas": "1038",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "505",
+		"penjualan_id": "505",
+		"produk_id": "33",
+		"kuantitas": "1020",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "506",
+		"penjualan_id": "506",
+		"produk_id": "34",
+		"kuantitas": "1511",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "507",
+		"penjualan_id": "507",
+		"produk_id": "35",
+		"kuantitas": "10",
+		"harga_satuan": "770"
+	},
+	{
+		"id": "508",
+		"penjualan_id": "508",
+		"produk_id": "40",
+		"kuantitas": "4",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "509",
+		"penjualan_id": "509",
+		"produk_id": "41",
+		"kuantitas": "46",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "510",
+		"penjualan_id": "510",
+		"produk_id": "43",
+		"kuantitas": "25",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "511",
+		"penjualan_id": "511",
+		"produk_id": "45",
+		"kuantitas": "1",
+		"harga_satuan": "58500"
+	},
+	{
+		"id": "512",
+		"penjualan_id": "512",
+		"produk_id": "46",
+		"kuantitas": "40",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "513",
+		"penjualan_id": "513",
+		"produk_id": "47",
+		"kuantitas": "3",
+		"harga_satuan": "9900"
+	},
+	{
+		"id": "514",
+		"penjualan_id": "514",
+		"produk_id": "1",
+		"kuantitas": "14",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "515",
+		"penjualan_id": "515",
+		"produk_id": "2",
+		"kuantitas": "58",
+		"harga_satuan": "10000"
+	},
+	{
+		"id": "516",
+		"penjualan_id": "516",
+		"produk_id": "3",
+		"kuantitas": "32",
+		"harga_satuan": "3100"
+	},
+	{
+		"id": "517",
+		"penjualan_id": "517",
+		"produk_id": "5",
+		"kuantitas": "28",
+		"harga_satuan": "8200"
+	},
+	{
+		"id": "518",
+		"penjualan_id": "518",
+		"produk_id": "6",
+		"kuantitas": "13",
+		"harga_satuan": "4500"
+	},
+	{
+		"id": "519",
+		"penjualan_id": "519",
+		"produk_id": "7",
+		"kuantitas": "48",
+		"harga_satuan": "4300"
+	},
+	{
+		"id": "520",
+		"penjualan_id": "520",
+		"produk_id": "8",
+		"kuantitas": "4",
+		"harga_satuan": "30400"
+	},
+	{
+		"id": "521",
+		"penjualan_id": "521",
+		"produk_id": "9",
+		"kuantitas": "7",
+		"harga_satuan": "17500"
+	},
+	{
+		"id": "522",
+		"penjualan_id": "522",
+		"produk_id": "10",
+		"kuantitas": "2",
+		"harga_satuan": "11300"
+	},
+	{
+		"id": "523",
+		"penjualan_id": "523",
+		"produk_id": "11",
+		"kuantitas": "40",
+		"harga_satuan": "7300"
+	},
+	{
+		"id": "524",
+		"penjualan_id": "524",
+		"produk_id": "12",
+		"kuantitas": "12",
+		"harga_satuan": "3700"
+	},
+	{
+		"id": "525",
+		"penjualan_id": "525",
+		"produk_id": "13",
+		"kuantitas": "3",
+		"harga_satuan": "6700"
+	},
+	{
+		"id": "526",
+		"penjualan_id": "526",
+		"produk_id": "14",
+		"kuantitas": "54",
+		"harga_satuan": "3800"
+	},
+	{
+		"id": "527",
+		"penjualan_id": "527",
+		"produk_id": "15",
+		"kuantitas": "194",
+		"harga_satuan": "4700"
+	},
+	{
+		"id": "528",
+		"penjualan_id": "528",
+		"produk_id": "16",
+		"kuantitas": "282",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "529",
+		"penjualan_id": "529",
+		"produk_id": "18",
+		"kuantitas": "170",
+		"harga_satuan": "3000"
+	},
+	{
+		"id": "530",
+		"penjualan_id": "530",
+		"produk_id": "19",
+		"kuantitas": "28",
+		"harga_satuan": "10700"
+	},
+	{
+		"id": "531",
+		"penjualan_id": "531",
+		"produk_id": "20",
+		"kuantitas": "5",
+		"harga_satuan": "5400"
+	},
+	{
+		"id": "532",
+		"penjualan_id": "532",
+		"produk_id": "21",
+		"kuantitas": "4720",
+		"harga_satuan": "700"
+	},
+	{
+		"id": "533",
+		"penjualan_id": "533",
+		"produk_id": "22",
+		"kuantitas": "2545",
+		"harga_satuan": "190"
+	},
+	{
+		"id": "534",
+		"penjualan_id": "534",
+		"produk_id": "23",
+		"kuantitas": "4205",
+		"harga_satuan": "200"
+	},
+	{
+		"id": "535",
+		"penjualan_id": "535",
+		"produk_id": "24",
+		"kuantitas": "5460",
+		"harga_satuan": "150"
+	},
+	{
+		"id": "536",
+		"penjualan_id": "536",
+		"produk_id": "25",
+		"kuantitas": "800",
+		"harga_satuan": "250"
+	},
+	{
+		"id": "537",
+		"penjualan_id": "537",
+		"produk_id": "26",
+		"kuantitas": "4640",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "538",
+		"penjualan_id": "538",
+		"produk_id": "27",
+		"kuantitas": "2976",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "539",
+		"penjualan_id": "539",
+		"produk_id": "28",
+		"kuantitas": "1500",
+		"harga_satuan": "390"
+	},
+	{
+		"id": "540",
+		"penjualan_id": "540",
+		"produk_id": "29",
+		"kuantitas": "2285",
+		"harga_satuan": "120"
+	},
+	{
+		"id": "541",
+		"penjualan_id": "541",
+		"produk_id": "30",
+		"kuantitas": "15",
+		"harga_satuan": "180"
+	},
+	{
+		"id": "542",
+		"penjualan_id": "542",
+		"produk_id": "31",
+		"kuantitas": "480",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "543",
+		"penjualan_id": "543",
+		"produk_id": "32",
+		"kuantitas": "4899",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "544",
+		"penjualan_id": "544",
+		"produk_id": "33",
+		"kuantitas": "2032",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "545",
+		"penjualan_id": "545",
+		"produk_id": "34",
+		"kuantitas": "4010",
+		"harga_satuan": "410"
+	},
+	{
+		"id": "546",
+		"penjualan_id": "546",
+		"produk_id": "35",
+		"kuantitas": "24",
+		"harga_satuan": "770"
+	},
+	{
+		"id": "547",
+		"penjualan_id": "547",
+		"produk_id": "37",
+		"kuantitas": "34",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "548",
+		"penjualan_id": "548",
+		"produk_id": "38",
+		"kuantitas": "6",
+		"harga_satuan": "2200"
+	},
+	{
+		"id": "549",
+		"penjualan_id": "549",
+		"produk_id": "40",
+		"kuantitas": "8",
+		"harga_satuan": "5900"
+	},
+	{
+		"id": "550",
+		"penjualan_id": "550",
+		"produk_id": "41",
+		"kuantitas": "32",
+		"harga_satuan": "12300"
+	},
+	{
+		"id": "551",
+		"penjualan_id": "551",
+		"produk_id": "43",
+		"kuantitas": "58",
+		"harga_satuan": "300"
+	},
+	{
+		"id": "552",
+		"penjualan_id": "552",
+		"produk_id": "44",
+		"kuantitas": "20",
+		"harga_satuan": "100"
+	},
+	{
+		"id": "553",
+		"penjualan_id": "553",
+		"produk_id": "45",
+		"kuantitas": "2",
+		"harga_satuan": "58500"
+	},
+	{
+		"id": "554",
+		"penjualan_id": "554",
+		"produk_id": "46",
+		"kuantitas": "26",
+		"harga_satuan": "25000"
+	},
+	{
+		"id": "555",
+		"penjualan_id": "555",
+		"produk_id": "48",
+		"kuantitas": "77",
+		"harga_satuan": "200"
+	}
+]

@@ -1,0 +1,54 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+    .left, .right {
+        display: flex;
+    }
+
+    .left > button,
+    .left > a {
+        margin-right: 10px;
+    }
+
+    .select {
+        display: flex;
+        span {
+            display: block;
+            line-height: 40px;
+            margin-right: 10px;
+            opacity: 0.7;
+            
+        }
+    }
+
+    select, input {
+        width: 100px;
+        border-radius: 10px;
+        background-color: #ffffff;
+        box-shadow: 0px 5px 5px 0 rgba(0, 0, 0, 0.03);
+        border: none;
+        cursor: pointer;
+    }
+
+    .search-field {
+        display: flex;
+        position: relative;
+        margin-left: 10px;
+
+        input {
+            width: 200px;
+            cursor: text;
+            padding-right: 35px;
+        }
+
+        i {
+            position: absolute;
+            line-height: 40px;
+            top: 0;
+            right: 14px;
+            font-size: 16px;
+        }
+    }
+}

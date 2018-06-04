@@ -1,0 +1,44 @@
+.stok {
+    width: calc(100% + 26px);
+    margin-left: -13px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+}
+
+.stok .item {
+    width: 25%;
+    padding: 0px 13px 26px;
+
+    .card {
+        padding: 20px;
+    }
+
+    .top {
+        display: flex;
+        justify-content: space-between;
+        line-height: 20px;
+        height: 20px;
+    }
+
+    .top .label {
+        font-weight: 500;
+        opacity: 0.7;
+    }
+
+    .number {
+        font-weight: bold;
+        font-size: 28px;
+        margin: 5px 0px 0px;
+        color: $color-primary;
+        border-bottom: 1px solid #eaeaea;
+        padding: 0px 0px 15px;
+        display: block;
+    }
+
+    .info {
+        width: 100%;
+        display: block;
+        margin-top: 15px;
+    }
+}

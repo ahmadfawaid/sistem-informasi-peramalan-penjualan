@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "satuan": "Tablet"
+    },
+    {
+      "id": 2,
+      "satuan": "Kapsul"
+    },
+    {
+      "id": 3,
+      "satuan": "Bungkus"
+    },
+    {
+      "id": 4,
+      "satuan": "Botol"
+    },
+    {
+      "id": 5,
+      "satuan": "Kaleng"
+    },
+    {
+      "id": 6,
+      "satuan": "Tube"
+    },
+    {
+      "id": 7,
+      "satuan": "Biji"
+    },
+    {
+      "id": 8,
+      "satuan": "Box"
+    },
+    {
+      "id": 9,
+      "satuan": "Lembar"
+    },
+    {
+      "id": 10,
+      "satuan": "Sachet"
+    },
+    {
+      "id": 11,
+      "satuan": "Flash"
+    },
+    {
+      "id": 12,
+      "satuan": "Roll"
+    },
+    {
+      "id": 13,
+      "satuan": "Strip"
+    },
+    {
+      "id": 14,
+      "satuan": "Ampul"
+    },
+    {
+      "id": 15,
+      "satuan": "Vial"
+    },
+    {
+      "id": 16,
+      "satuan": "Pot"
+    },
+    {
+      "id": 17,
+      "satuan": "Pack"
+    },
+    {
+      "id": 18,
+      "satuan": "Set"
+    }
+  ]

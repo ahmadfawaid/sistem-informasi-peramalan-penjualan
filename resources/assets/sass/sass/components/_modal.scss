@@ -1,0 +1,240 @@
+// .modal-open      - body class for killing the scroll
+// .modal           - container to scroll within
+// .modal-dialog    - positioning shell for the actual modal
+// .modal-content   - actual modal w/ bg and corners and stuff
+
+
+// Kill the scroll on the body
+.modal-open {
+    overflow: hidden;
+  }
+  
+  // Container that the modal scrolls within
+  .modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: $z-over-screen;
+    display: none;
+    overflow: hidden;
+    // Prevent Chrome on Windows from adding a focus outline. For details, see
+    // https://github.com/twbs/bootstrap/pull/10951.
+    outline: 0;
+    // We deliberately don't use `-webkit-overflow-scrolling: touch;` due to a
+    // gnarly iOS Safari bug: https://bugs.webkit.org/show_bug.cgi?id=158342
+    // See also https://github.com/twbs/bootstrap/issues/17695
+  
+    .modal-open & {
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+  }
+  
+  // Shell div to position the modal with bottom padding
+  .modal-dialog {
+    position: relative;
+    width: auto;
+    margin: .5rem;
+    // allow clicks to pass through for custom click handling to close modal
+    pointer-events: none;
+  
+    // When fading in the modal, animate it to slide down
+    .modal.fade & {
+      @include transition(transform .3s ease-out);
+      transform: translate(0, -25%);
+    }
+    .modal.show & {
+      transform: translate(0, 0);
+    }
+  }
+  
+  .modal-dialog-centered {
+    display: flex;
+    align-items: center;
+    min-height: calc(100% - (#{.5rem} * 2));
+  }
+  
+  // Actual modal
+  .modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%; // Ensure `.modal-content` extends the full width of the parent `.modal-dialog`
+    // counteract the pointer-events: none; in the .modal-dialog
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    @include border-radius(8px);
+    box-shadow: 0 30px 75px 0 rgba(0, 0, 0, .2);
+    padding: 60px 70px;
+    margin: 100px auto !important;
+    // @include box-shadow(0 .25rem .5rem rgba(0, 0, 0, .2));
+    // Remove focus outline from opened modal
+    outline: 0;
+  }
+  
+  // Modal background
+  .modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: $z-over-page;
+    background-color: #000;
+  
+    // Fade for backdrop
+    &.fade { opacity: 0; }
+    &.show { opacity: .5; }
+  }
+  
+  // Modal header
+  // Top section of the modal w/ title and dismiss
+  .modal-header {
+    display: flex;
+    align-items: flex-start; // so the close btn always stays on the upper right corner
+    justify-content: space-between; // Put modal header elements (title and dismiss) on opposite ends
+    padding: 0px;
+    margin-bottom: 35px;
+    // border-bottom: 1px solid #e9ecef;
+    @include border-top-radius(8px);
+  
+    .close {
+        // auto on the left force icon to the right even when there is no .modal-title
+        background: none;
+        color: $color-text;
+        box-shadow: none;
+
+        font-size: 24px;
+        margin: 0px;
+        padding: 0px;
+        height: 22px;
+        line-height: 22px;
+    }
+  }
+
+  .modal.delete {
+      .modal-content {
+          width: 420px;
+          padding: 50px 60px 40px
+      }
+      .modal-header {
+          flex-direction: column;
+          margin-bottom: 20px;
+
+          .icon {
+              width: 64px;
+              height: 64px;
+              text-align: center;
+              line-height: 64px;
+              font-size: 30px;
+              margin: 0 auto;
+              color: #fff;
+              border-radius: 64px;
+              background: $color-error;
+              box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.15);
+          }
+
+          .modal-title {
+              width: 100%;
+              text-align: center;
+              margin-top: 20px;
+          }
+      }
+
+      .modal-body {
+          text-align: center;
+          margin-bottom: 25px;
+          font-size: 13px;
+          line-height: 20px;
+      }
+
+      .modal-footer {
+          flex-direction: column;
+
+          .button {
+              background: $color-error;
+              line-height: 36px;
+              height: 36px;
+          }
+
+          .cancel {
+              margin: 10px 0px 0px 0px;
+          }
+      }
+  }
+
+  .modal.delete.move {
+    .modal-header .icon,
+    .modal-footer .button{
+          background: $color-warning;
+    }
+  }
+  
+  // Title text within header
+  .modal-title {
+    margin: 0px;
+    line-height: 1;
+    font-size: 22px;
+    color: $color-text;
+    font-weight: 500;
+  }
+  
+  // Modal body
+  // Where all modal content resides (sibling of .modal-header and .modal-footer)
+  .modal-body {
+    position: relative;
+    // Enable `flex-grow: 1` so that the body take up as much space as possible
+    // when should there be a fixed height on `.modal-dialog`.
+    flex: 1 1 auto;
+  }
+  
+  // Footer (for actions)
+  .modal-footer {
+    display: flex;
+    align-items: center; // vertically center
+    justify-content: flex-end; // Right align buttons with flex property because text-align doesn't work on flex items
+    padding-top: 10px;
+
+    .cancel {
+      margin-right: 16px;
+      opacity: 0.7;
+      font-weight: 500;
+      cursor: pointer;
+    }
+  }
+  
+  // Measure scrollbar width for padding body during modal show/hide
+  .modal-scrollbar-measure {
+    position: absolute;
+    top: -9999px;
+    width: 50px;
+    height: 50px;
+    overflow: scroll;
+  }
+  
+  // Scale up the modal
+  @include media-breakpoint-up(sm) {
+    // Automatically set modal's width for larger viewports
+    .modal-dialog {
+      max-width: 550px;
+      margin: 1.75rem auto;
+    }
+  
+    .modal-dialog-centered {
+      min-height: calc(100% - (#{1.75rem} * 2));
+    }
+  
+    // .modal-content {
+    //     box-shadow: 0 30px 75px 0 rgba(0, 0, 0, .2);
+    // }
+  
+    .modal-sm { max-width: 300px; }
+  
+  }
+  
+  @include media-breakpoint-up(lg) {
+    .modal-lg { max-width: 800px; }
+  }

@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'skripsweet';
+    src:  url('../fonts/skripsweet/skripsweet.eot?y66wlv');
+    src:  url('../fonts/skripsweet/skripsweet.eot?y66wlv#iefix') format('embedded-opentype'),
+      url('../fonts/skripsweet/skripsweet.ttf?y66wlv') format('truetype'),
+      url('../fonts/skripsweet/skripsweet.woff?y66wlv') format('woff'),
+      url('../fonts/skripsweet/skripsweet.svg?y66wlv#skripsweet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'skripsweet' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    font-size: 18px;
+    text-transform: none;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-cari:before {
+    content: "\e900";
+  }
+  .icon-cek:before {
+    content: "\e901";
+  }
+  .icon-cetak:before {
+    content: "\e902";
+  }
+  .icon-dashboard:before {
+    content: "\e903";
+  }
+  .icon-expand:before {
+    content: "\e904";
+  }
+  .icon-grafik:before {
+    content: "\e905";
+  }
+  .icon-hapus:before {
+    content: "\e906";
+  }
+  .icon-keluar:before {
+    content: "\e907";
+  }
+  .icon-keluar2:before {
+    content: "\e908";
+  }
+  .icon-pengguna:before {
+    content: "\e909";
+  }
+  .icon-persediaan:before {
+    content: "\e90a";
+  }
+  .icon-produk:before {
+    content: "\e90b";
+  }
+  .icon-sukses:before {
+    content: "\e90c";
+  }
+  .icon-sukses2:before {
+    content: "\e90d";
+  }
+  .icon-tambah:before {
+    content: "\e90e";
+  }
+  .icon-transaksi:before {
+    content: "\e90f";
+  }
+  .icon-ubah:before {
+    content: "\e910";
+  }
+  .icon-uncek:before {
+    content: "\e911";
+  }
+  

@@ -1,0 +1,306 @@
+.content {
+    margin-left: 280px;
+    padding: 0px 50px 70px;
+    min-height: 80vh;
+    transition: 0.5s;
+}
+
+.content.forecast {
+    .card {
+        padding: 30px;
+    }
+}
+
+.content.dashboard {
+    background: #fbfdfd;
+}
+
+// .sideform {
+//     width: 350px;
+//     background: #0e1726;
+//     z-index: 400;
+//     position: fixed;
+//     top: 0;
+//     left: 0;
+//     bottom: 0;
+//     height: 100vh;
+//     padding: 30px;
+//     color: #2b3a53;
+
+//     .forecast-form {
+//         padding-bottom: 10px;
+//     }
+
+//     .form-group {
+
+//         .label {
+//             color: #2b3a53;
+//             opacity: 1;
+//             margin-bottom: 14px;
+//             font-size: 14px;
+//         }
+
+//         .input {
+//             background: #0b121E;
+//             border: none;
+//             height: 50px;
+//             border-radius: 10px;
+//             font-size: 16px;
+//             padding: 0px 20px;
+//             color: #eaeaea;
+//             letter-spacing: 0.5px;
+//             font-weight: normal;
+//         }
+//     }
+
+//     .button {
+//         width: 100%;
+//         text-align: center;
+//         display: block;
+//         line-height: 50px;
+//         height: 50px;
+//         font-size: 16px;
+//     }
+// }
+
+
+.penjualan .main-content .header{
+
+    .label {
+        font-weight: medium;
+        opacity: 0.7;
+        font-size: 13px;
+    }
+
+    .value {
+        display: block;
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 8px;
+        line-height: 18px;
+        letter-spacing: 0.7px;
+        color: $color-text;
+    }
+}
+
+.search-area {
+    width: 330px;
+    background: #0e1726;
+    z-index: 400;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100vh;
+    padding: 30px;
+    color: #2b3a53;
+
+    .info {
+        font-weight: 500;
+        font-size: 13px;
+        margin-top: 15px;
+        display: block;
+    }
+    
+    .lds-ellipsis{
+        margin: 0;
+    }
+}
+
+.content.penjualan {
+    margin-left: 330px;
+    padding: 0px 50px;
+    transition: 0.5s;
+}
+
+.search-form {
+    position: relative;
+
+    i {
+        position: absolute;
+        line-height: 50px;
+        font-size: 20px;
+        left: 20px;
+        color: #2b3a53;
+    }
+
+    .input{
+        background: #141e2f;
+        border: none;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 16px;
+        font-weight: 500;
+        padding-left: 60px;
+        color: #fff;
+        letter-spacing: 0.4px;
+
+        &::placeholder {
+            color: #2b3a53;
+            opacity: 0.7;
+        }
+    }
+}
+
+.search-results {
+    margin: 0v;
+    padding: 0;
+
+    li {
+        padding: 15px 0px;
+        border-bottom: 1px solid #131c2d;
+        cursor: pointer;
+
+        .list {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        .product {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 40px;
+        }
+
+        i {
+            color: #0e1726;
+            background: #1d293d;
+            border-radius: 50px;
+            padding: 5px;
+            font-size: 16px;
+            line-height: 40px;
+            height: 26px;
+            width: 26px;
+            text-align: center;
+            cursor: pointer;
+        }
+    }
+
+    .list:hover {
+        i {
+            background: #0065ff;
+            color: #fff;
+        }
+
+        .name, .detail {
+            color: #eaeaea;
+        }
+    }
+
+    .name {
+        font-size: 15px;
+        color: #68768e;
+        font-weight: normal;
+        letter-spacing: 0.7px
+    }
+
+    .detail {
+        font-size: 12px;
+    }
+}
+
+.penjualan .card.right {
+    padding: 25px 0px;
+}
+
+.penjualan .total {
+    padding: 0px 25px;
+    border-bottom: 1px solid #eaeaea;
+
+    .label {
+        font-size: 13px;
+        font-weight: 500;
+        opacity: 0.7;
+    }
+    
+    .value {
+        display: block;
+        font-size: 26px;
+        font-weight: 500;
+        margin-top: 6px;
+        color: #13ce66;
+        padding-bottom: 20px;
+    }
+}
+
+.penjualan .bayar {
+    padding: 25px 25px 0px;
+
+    .label {
+        font-size: 13px;
+        font-weight: 500;
+        opacity: 0.7;
+    }
+
+    input {
+        margin-top: 10px;
+        border: none;
+        background: #eaeaea;
+        font-size: 26px;
+        font-weight: 500;
+        line-height: 50px;
+        height: 50px;
+    }
+}
+
+.penjualan .bayar.detail {
+    .value {
+        display: block;
+        font-size: 26px;
+        font-weight: 500;
+        margin-top: 6px;
+    }
+}
+
+.button-bayar {
+    width: 100%;
+    text-align: center;
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 50px;
+    height: 50px;
+    margin-top: 20px;
+
+    &.nonaktif{
+        background: #ddd;
+        color: #959eab;
+        box-shadow: none;
+    }
+}
+
+.empty {
+    width: 400px;
+    margin: 100px auto 0;
+    text-align: center;
+
+    i {
+        font-size: 75px;
+    }
+
+    span {
+        display: block;
+        margin-top: 20px;
+    }
+}
+
+.forecast .modal-body {
+    .group {
+        margin-bottom: 35px;
+    }
+
+    label {
+        display: block;
+        opacity: .8;
+        margin-bottom: 15px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    span {
+        font-size: 24px;
+    }
+    
+}

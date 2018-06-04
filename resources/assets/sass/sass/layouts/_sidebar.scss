@@ -1,0 +1,125 @@
+.sidebar {
+    width: 280px;
+    background: $color-black;
+    background: linear-gradient(0deg, #04080d, #192231);
+    z-index: $z-over-page;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    margin-bottom: 30px;
+
+    .button.cashier {
+        // font-size: 15px;
+        width: 200px;
+        margin: 35px auto 0px;
+        text-align: center;
+        display: block;
+    }
+
+    .nav {
+        margin-top: 35px;
+    }
+}
+
+.sidebar .logo {
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+
+    > .img {
+        width: 150px;
+        height: 130px;
+        // width: 58px;
+        // margin: 0 auto 30px;
+    }
+
+    > .name {
+        display: none;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        line-height: 20px;
+    }
+
+    > .name > span {
+        font-size: 14px;
+        font-weight: normal;
+        display: block;
+        line-height: 14px;
+        margin-top: 7px;
+    }
+}
+
+.metismenu {
+    padding-left: 0px;
+    margin: 0px 0px 0px;
+    padding-bottom: 30px;
+
+    .menu-title {
+        color: $color-text;
+        font-size: 12px;
+        line-height: 1;
+        font-weight: 500;
+        padding: 0px;
+        padding-left: 40px;
+        margin-bottom: 10px;
+    }
+
+    > li {
+        padding: 18px 0px 18px 40px;
+        line-height: 1;
+        position: relative;
+    }
+
+    > li > a {
+        color: $color-text;
+        font-weight: 500;
+        line-height: 24px;
+        display: block;
+    }
+
+    > li.active  a, > li  a:hover, > li  a.active {
+        color: #fff;
+    }
+
+    > li > a > i {
+        display: inline-block;
+        font-size: 24px;
+        line-height: 17px;
+        margin-right: 20px;
+        vertical-align: middle;
+    }
+
+    > li > a > span {
+        position: absolute;
+        right: 32px;
+        font-size: 15px;
+        transform: rotate(-90deg);
+        transition: all .3s ease-out;
+        line-height: 24px;
+    }
+
+    > li.active > a > span {
+        transform: rotate(0deg);
+    }
+
+    .nav-second-level {
+        padding-left: 44px;
+    }
+
+    .nav-second-level > li {
+        margin: 24px 0px 0px 0px;
+    }
+
+    .nav-second-level > li > a {
+        color: $color-text;
+        display: block;
+        position: relative;
+    }
+
+    .nav-second-level > li > a.active, .nav-second-level > li:hover > a {
+        color: #fff;
+    }
+}

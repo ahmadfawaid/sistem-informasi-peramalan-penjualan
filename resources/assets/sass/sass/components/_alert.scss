@@ -1,0 +1,18 @@
+.alert {
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #fff;
+    box-shadow: 0px 7px 5px 0 rgba(0, 0, 0, 0.04);
+    line-height: 20px;
+    margin-top: 10px;
+
+    &.alert-success {
+        background: $color-success;
+    }
+    &.alert-warning {
+        background: $color-warning;
+    }
+    &.alert-error {
+        background: $color-error;
+    }
+}

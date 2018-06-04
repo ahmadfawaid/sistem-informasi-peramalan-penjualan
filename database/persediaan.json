@@ -1,0 +1,158 @@
+[
+	{
+		"id": "1",
+		"rak_id": "1",
+		"produk_id": "1",
+		"stok": "100"
+	},
+	{
+		"id": "2",
+		"rak_id": "1",
+		"produk_id": "2",
+		"stok": "40"
+	},
+	{
+		"id": "3",
+		"rak_id": "1",
+		"produk_id": "3",
+		"stok": "40"
+	},
+	{
+		"id": "4",
+		"rak_id": "1",
+		"produk_id": "4",
+		"stok": "40"
+	},
+	{
+		"id": "5",
+		"rak_id": "2",
+		"produk_id": "5",
+		"stok": "35"
+	},
+	{
+		"id": "6",
+		"rak_id": "2",
+		"produk_id": "7",
+		"stok": "70"
+	},
+	{
+		"id": "7",
+		"rak_id": "2",
+		"produk_id": "8",
+		"stok": "10"
+	},
+	{
+		"id": "8",
+		"rak_id": "3",
+		"produk_id": "9",
+		"stok": "10"
+	},
+	{
+		"id": "9",
+		"rak_id": "3",
+		"produk_id": "10",
+		"stok": "100"
+	},
+	{
+		"id": "10",
+		"rak_id": "3",
+		"produk_id": "12",
+		"stok": "70"
+	},
+	{
+		"id": "11",
+		"rak_id": "3",
+		"produk_id": "15",
+		"stok": "250"
+	},
+	{
+		"id": "12",
+		"rak_id": "3",
+		"produk_id": "16",
+		"stok": "200"
+	},
+	{
+		"id": "13",
+		"rak_id": "4",
+		"produk_id": "23",
+		"stok": "1500"
+	},
+	{
+		"id": "14",
+		"rak_id": "4",
+		"produk_id": "24",
+		"stok": "10000"
+	},
+	{
+		"id": "15",
+		"rak_id": "4",
+		"produk_id": "25",
+		"stok": "5000"
+	},
+	{
+		"id": "16",
+		"rak_id": "4",
+		"produk_id": "26",
+		"stok": "4000"
+	},
+	{
+		"id": "17",
+		"rak_id": "5",
+		"produk_id": "28",
+		"stok": "5000"
+	},
+	{
+		"id": "18",
+		"rak_id": "5",
+		"produk_id": "30",
+		"stok": "5000"
+	},
+	{
+		"id": "19",
+		"rak_id": "5",
+		"produk_id": "34",
+		"stok": "4000"
+	},
+	{
+		"id": "20",
+		"rak_id": "6",
+		"produk_id": "39",
+		"stok": "40"
+	},
+	{
+		"id": "21",
+		"rak_id": "6",
+		"produk_id": "40",
+		"stok": "40"
+	},
+	{
+		"id": "22",
+		"rak_id": "6",
+		"produk_id": "41",
+		"stok": "40"
+	},
+	{
+		"id": "23",
+		"rak_id": "6",
+		"produk_id": "42",
+		"stok": "40"
+	},
+	{
+		"id": "24",
+		"rak_id": "7",
+		"produk_id": "47",
+		"stok": "50"
+	},
+	{
+		"id": "25",
+		"rak_id": "7",
+		"produk_id": "48",
+		"stok": "50"
+	},
+	{
+		"id": "26",
+		"rak_id": "7",
+		"produk_id": "49",
+		"stok": "50"
+	}
+]

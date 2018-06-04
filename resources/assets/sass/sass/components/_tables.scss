@@ -1,0 +1,81 @@
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	max-width: 100%;
+	width: 100%;
+	empty-cells: show;
+    font-size: 14px;
+    line-height: 24px;
+
+    label {
+        cursor: pointer;
+    }
+
+    th.nomor, td.nomor {
+        width: 24px;
+    }
+
+    // input[type="checkbox"] {
+    //     display: none;
+
+    //     + .text:before {
+    //         content: "hello";
+    //     }
+
+    //     &:checked + .text:before {
+    //         content: "haha";
+    //     }
+    // }
+}
+
+thead {
+    th {
+        line-height: 50px;
+        font-weight: 500;
+        text-align: left;
+        border-bottom: 3px solid #eaeaea;
+        padding: 0px 10px;
+    }
+
+    th.checkbox {
+        width: 30px;
+        padding-left: 5px;
+    }
+
+    th:last-child {
+        padding-right: 5px;
+    }
+}
+
+tbody {
+    td {
+        border-bottom: 1px solid #eaeaea;
+        padding: 0px 10px;
+        line-height: 1;
+        height: 56px;
+    }
+
+    td.checkbox {
+        width: 30px;
+        padding-left: 5px;
+    }
+
+    td:last-child {
+        padding-right: 5px;
+    }
+
+    tr:last-child td{
+        border-bottom: none;
+    }
+
+    td > span {
+        display: block;
+        font-size: 11px;
+        line-height: 1;
+        margin-top: 5px;
+    }
+}
+
+.pembelian table tbody td {
+    padding: 0 7px;
+}

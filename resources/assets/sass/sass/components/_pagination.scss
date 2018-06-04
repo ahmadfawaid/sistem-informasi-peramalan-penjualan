@@ -1,0 +1,37 @@
+.main-content.persediaan .footer {
+    line-height: 20px;
+    padding-top: 0px;
+    
+    .info {
+        line-height: 20px;
+    }
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+
+    .info {
+        line-height: 50px;
+        color: rgba(33, 44, 62, 0.7);
+    }
+}
+
+.pagination {
+    display: flex;
+    line-height: 50px;
+    margin: 0px;
+
+    li {
+        margin: 0px 10px;
+
+        a {
+            color: rgba(33, 44, 62, 0.7);
+        }
+
+        &.active a {
+            color: $color-primary;
+        }
+    }
+}

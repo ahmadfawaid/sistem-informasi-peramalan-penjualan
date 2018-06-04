@@ -1,0 +1,4442 @@
+[
+	{
+		"id": "1",
+		"nomor_faktur": "RM1700001",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "11000",
+		"total": "11000",
+		"user_id": "2"
+	},
+	{
+		"id": "2",
+		"nomor_faktur": "RM1700002",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "240000",
+		"total": "240000",
+		"user_id": "2"
+	},
+	{
+		"id": "3",
+		"nomor_faktur": "RM1700003",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "31000",
+		"total": "31000",
+		"user_id": "2"
+	},
+	{
+		"id": "4",
+		"nomor_faktur": "RM1700004",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "128000",
+		"total": "128000",
+		"user_id": "2"
+	},
+	{
+		"id": "5",
+		"nomor_faktur": "RM1700005",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "82000",
+		"total": "82000",
+		"user_id": "2"
+	},
+	{
+		"id": "6",
+		"nomor_faktur": "RM1700006",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "4500",
+		"total": "4500",
+		"user_id": "2"
+	},
+	{
+		"id": "7",
+		"nomor_faktur": "RM1700007",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "25800",
+		"total": "25800",
+		"user_id": "2"
+	},
+	{
+		"id": "8",
+		"nomor_faktur": "RM1700008",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "60800",
+		"total": "60800",
+		"user_id": "2"
+	},
+	{
+		"id": "9",
+		"nomor_faktur": "RM1700009",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "17500",
+		"total": "17500",
+		"user_id": "2"
+	},
+	{
+		"id": "10",
+		"nomor_faktur": "RM1700010",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "113000",
+		"total": "113000",
+		"user_id": "2"
+	},
+	{
+		"id": "11",
+		"nomor_faktur": "RM1700011",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "102200",
+		"total": "102200",
+		"user_id": "2"
+	},
+	{
+		"id": "12",
+		"nomor_faktur": "RM1700012",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "81400",
+		"total": "81400",
+		"user_id": "2"
+	},
+	{
+		"id": "13",
+		"nomor_faktur": "RM1700013",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "163400",
+		"total": "163400",
+		"user_id": "2"
+	},
+	{
+		"id": "14",
+		"nomor_faktur": "RM1700014",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "479400",
+		"total": "479400",
+		"user_id": "2"
+	},
+	{
+		"id": "15",
+		"nomor_faktur": "RM1700015",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "187000",
+		"total": "187000",
+		"user_id": "2"
+	},
+	{
+		"id": "16",
+		"nomor_faktur": "RM1700016",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "2700",
+		"total": "2700",
+		"user_id": "2"
+	},
+	{
+		"id": "17",
+		"nomor_faktur": "RM1700017",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "222000",
+		"total": "222000",
+		"user_id": "2"
+	},
+	{
+		"id": "18",
+		"nomor_faktur": "RM1700018",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "42800",
+		"total": "42800",
+		"user_id": "2"
+	},
+	{
+		"id": "19",
+		"nomor_faktur": "RM1700019",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "10800",
+		"total": "10800",
+		"user_id": "2"
+	},
+	{
+		"id": "20",
+		"nomor_faktur": "RM1700020",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "1323000",
+		"total": "1323000",
+		"user_id": "2"
+	},
+	{
+		"id": "21",
+		"nomor_faktur": "RM1700021",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "115900",
+		"total": "115900",
+		"user_id": "2"
+	},
+	{
+		"id": "22",
+		"nomor_faktur": "RM1700022",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "952600",
+		"total": "952600",
+		"user_id": "2"
+	},
+	{
+		"id": "23",
+		"nomor_faktur": "RM1700023",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "732000",
+		"total": "732000",
+		"user_id": "2"
+	},
+	{
+		"id": "24",
+		"nomor_faktur": "RM1700024",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "700000",
+		"total": "700000",
+		"user_id": "2"
+	},
+	{
+		"id": "25",
+		"nomor_faktur": "RM1700025",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "306000",
+		"total": "306000",
+		"user_id": "2"
+	},
+	{
+		"id": "26",
+		"nomor_faktur": "RM1700026",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "165240",
+		"total": "165240",
+		"user_id": "2"
+	},
+	{
+		"id": "27",
+		"nomor_faktur": "RM1700027",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "78000",
+		"total": "78000",
+		"user_id": "2"
+	},
+	{
+		"id": "28",
+		"nomor_faktur": "RM1700028",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "6000",
+		"total": "6000",
+		"user_id": "2"
+	},
+	{
+		"id": "29",
+		"nomor_faktur": "RM1700029",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "167280",
+		"total": "167280",
+		"user_id": "2"
+	},
+	{
+		"id": "30",
+		"nomor_faktur": "RM1700030",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "448540",
+		"total": "448540",
+		"user_id": "2"
+	},
+	{
+		"id": "31",
+		"nomor_faktur": "RM1700031",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "540380",
+		"total": "540380",
+		"user_id": "2"
+	},
+	{
+		"id": "32",
+		"nomor_faktur": "RM1700032",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "214430",
+		"total": "214430",
+		"user_id": "2"
+	},
+	{
+		"id": "33",
+		"nomor_faktur": "RM1700033",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "157500",
+		"total": "157500",
+		"user_id": "2"
+	},
+	{
+		"id": "34",
+		"nomor_faktur": "RM1700034",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "64900",
+		"total": "64900",
+		"user_id": "2"
+	},
+	{
+		"id": "35",
+		"nomor_faktur": "RM1700035",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "381300",
+		"total": "381300",
+		"user_id": "2"
+	},
+	{
+		"id": "36",
+		"nomor_faktur": "RM1700036",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "1200",
+		"total": "1200",
+		"user_id": "2"
+	},
+	{
+		"id": "37",
+		"nomor_faktur": "RM1700037",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "1400",
+		"total": "1400",
+		"user_id": "2"
+	},
+	{
+		"id": "38",
+		"nomor_faktur": "RM1700038",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "175500",
+		"total": "175500",
+		"user_id": "2"
+	},
+	{
+		"id": "39",
+		"nomor_faktur": "RM1700039",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "1250000",
+		"total": "1250000",
+		"user_id": "2"
+	},
+	{
+		"id": "40",
+		"nomor_faktur": "RM1700040",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "19800",
+		"total": "19800",
+		"user_id": "2"
+	},
+	{
+		"id": "41",
+		"nomor_faktur": "RM1700041",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "40000",
+		"total": "40000",
+		"user_id": "2"
+	},
+	{
+		"id": "42",
+		"nomor_faktur": "RM1700042",
+		"tanggal": "2017-01-01",
+		"jumlah_bayar": "60000",
+		"total": "60000",
+		"user_id": "2"
+	},
+	{
+		"id": "43",
+		"nomor_faktur": "RM1700043",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "11000",
+		"total": "11000",
+		"user_id": "3"
+	},
+	{
+		"id": "44",
+		"nomor_faktur": "RM1700044",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "300000",
+		"total": "300000",
+		"user_id": "3"
+	},
+	{
+		"id": "45",
+		"nomor_faktur": "RM1700045",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "31000",
+		"total": "31000",
+		"user_id": "3"
+	},
+	{
+		"id": "46",
+		"nomor_faktur": "RM1700046",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "106600",
+		"total": "106600",
+		"user_id": "3"
+	},
+	{
+		"id": "47",
+		"nomor_faktur": "RM1700047",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "9000",
+		"total": "9000",
+		"user_id": "3"
+	},
+	{
+		"id": "48",
+		"nomor_faktur": "RM1700048",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "21500",
+		"total": "21500",
+		"user_id": "3"
+	},
+	{
+		"id": "49",
+		"nomor_faktur": "RM1700049",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "60800",
+		"total": "60800",
+		"user_id": "3"
+	},
+	{
+		"id": "50",
+		"nomor_faktur": "RM1700050",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "35000",
+		"total": "35000",
+		"user_id": "3"
+	},
+	{
+		"id": "51",
+		"nomor_faktur": "RM1700051",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "339000",
+		"total": "339000",
+		"user_id": "3"
+	},
+	{
+		"id": "52",
+		"nomor_faktur": "RM1700052",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "686200",
+		"total": "686200",
+		"user_id": "3"
+	},
+	{
+		"id": "53",
+		"nomor_faktur": "RM1700053",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "111000",
+		"total": "111000",
+		"user_id": "3"
+	},
+	{
+		"id": "54",
+		"nomor_faktur": "RM1700054",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "134000",
+		"total": "134000",
+		"user_id": "3"
+	},
+	{
+		"id": "55",
+		"nomor_faktur": "RM1700055",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "76000",
+		"total": "76000",
+		"user_id": "3"
+	},
+	{
+		"id": "56",
+		"nomor_faktur": "RM1700056",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "554600",
+		"total": "554600",
+		"user_id": "3"
+	},
+	{
+		"id": "57",
+		"nomor_faktur": "RM1700057",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "176000",
+		"total": "176000",
+		"user_id": "3"
+	},
+	{
+		"id": "58",
+		"nomor_faktur": "RM1700058",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "2700",
+		"total": "2700",
+		"user_id": "3"
+	},
+	{
+		"id": "59",
+		"nomor_faktur": "RM1700059",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "258000",
+		"total": "258000",
+		"user_id": "3"
+	},
+	{
+		"id": "60",
+		"nomor_faktur": "RM1700060",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "32100",
+		"total": "32100",
+		"user_id": "3"
+	},
+	{
+		"id": "61",
+		"nomor_faktur": "RM1700061",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "2219700",
+		"total": "2219700",
+		"user_id": "3"
+	},
+	{
+		"id": "62",
+		"nomor_faktur": "RM1700062",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "381900",
+		"total": "381900",
+		"user_id": "3"
+	},
+	{
+		"id": "63",
+		"nomor_faktur": "RM1700063",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "391600",
+		"total": "391600",
+		"user_id": "3"
+	},
+	{
+		"id": "64",
+		"nomor_faktur": "RM1700064",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "751500",
+		"total": "751500",
+		"user_id": "3"
+	},
+	{
+		"id": "65",
+		"nomor_faktur": "RM1700065",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "475000",
+		"total": "475000",
+		"user_id": "3"
+	},
+	{
+		"id": "66",
+		"nomor_faktur": "RM1700066",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "774000",
+		"total": "774000",
+		"user_id": "3"
+	},
+	{
+		"id": "67",
+		"nomor_faktur": "RM1700067",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "142380",
+		"total": "142380",
+		"user_id": "3"
+	},
+	{
+		"id": "68",
+		"nomor_faktur": "RM1700068",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "195000",
+		"total": "195000",
+		"user_id": "3"
+	},
+	{
+		"id": "69",
+		"nomor_faktur": "RM1700069",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "4080",
+		"total": "4080",
+		"user_id": "3"
+	},
+	{
+		"id": "70",
+		"nomor_faktur": "RM1700070",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "284540",
+		"total": "284540",
+		"user_id": "3"
+	},
+	{
+		"id": "71",
+		"nomor_faktur": "RM1700071",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "1823680",
+		"total": "1823680",
+		"user_id": "3"
+	},
+	{
+		"id": "72",
+		"nomor_faktur": "RM1700072",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "704380",
+		"total": "704380",
+		"user_id": "3"
+	},
+	{
+		"id": "73",
+		"nomor_faktur": "RM1700073",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "767930",
+		"total": "767930",
+		"user_id": "3"
+	},
+	{
+		"id": "74",
+		"nomor_faktur": "RM1700074",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "53750",
+		"total": "53750",
+		"user_id": "3"
+	},
+	{
+		"id": "75",
+		"nomor_faktur": "RM1700075",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "13500",
+		"total": "13500",
+		"user_id": "3"
+	},
+	{
+		"id": "76",
+		"nomor_faktur": "RM1700076",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "430500",
+		"total": "430500",
+		"user_id": "3"
+	},
+	{
+		"id": "77",
+		"nomor_faktur": "RM1700077",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "1200",
+		"total": "1200",
+		"user_id": "3"
+	},
+	{
+		"id": "78",
+		"nomor_faktur": "RM1700078",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "2000",
+		"total": "2000",
+		"user_id": "3"
+	},
+	{
+		"id": "79",
+		"nomor_faktur": "RM1700079",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "1025000",
+		"total": "1025000",
+		"user_id": "3"
+	},
+	{
+		"id": "80",
+		"nomor_faktur": "RM1700080",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "20000",
+		"total": "20000",
+		"user_id": "3"
+	},
+	{
+		"id": "81",
+		"nomor_faktur": "RM1700081",
+		"tanggal": "2017-02-01",
+		"jumlah_bayar": "80000",
+		"total": "80000",
+		"user_id": "3"
+	},
+	{
+		"id": "82",
+		"nomor_faktur": "RM1700082",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "260000",
+		"total": "260000",
+		"user_id": "3"
+	},
+	{
+		"id": "83",
+		"nomor_faktur": "RM1700083",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "124000",
+		"total": "124000",
+		"user_id": "3"
+	},
+	{
+		"id": "84",
+		"nomor_faktur": "RM1700084",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "256000",
+		"total": "256000",
+		"user_id": "3"
+	},
+	{
+		"id": "85",
+		"nomor_faktur": "RM1700085",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "90200",
+		"total": "90200",
+		"user_id": "3"
+	},
+	{
+		"id": "86",
+		"nomor_faktur": "RM1700086",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "94600",
+		"total": "94600",
+		"user_id": "3"
+	},
+	{
+		"id": "87",
+		"nomor_faktur": "RM1700087",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "273600",
+		"total": "273600",
+		"user_id": "3"
+	},
+	{
+		"id": "88",
+		"nomor_faktur": "RM1700088",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "17500",
+		"total": "17500",
+		"user_id": "3"
+	},
+	{
+		"id": "89",
+		"nomor_faktur": "RM1700089",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "723200",
+		"total": "723200",
+		"user_id": "3"
+	},
+	{
+		"id": "90",
+		"nomor_faktur": "RM1700090",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "963600",
+		"total": "963600",
+		"user_id": "3"
+	},
+	{
+		"id": "91",
+		"nomor_faktur": "RM1700091",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "18500",
+		"total": "18500",
+		"user_id": "3"
+	},
+	{
+		"id": "92",
+		"nomor_faktur": "RM1700092",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "201000",
+		"total": "201000",
+		"user_id": "3"
+	},
+	{
+		"id": "93",
+		"nomor_faktur": "RM1700093",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "152000",
+		"total": "152000",
+		"user_id": "3"
+	},
+	{
+		"id": "94",
+		"nomor_faktur": "RM1700094",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "512300",
+		"total": "512300",
+		"user_id": "3"
+	},
+	{
+		"id": "95",
+		"nomor_faktur": "RM1700095",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "176000",
+		"total": "176000",
+		"user_id": "3"
+	},
+	{
+		"id": "96",
+		"nomor_faktur": "RM1700096",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "48600",
+		"total": "48600",
+		"user_id": "3"
+	},
+	{
+		"id": "97",
+		"nomor_faktur": "RM1700097",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "360000",
+		"total": "360000",
+		"user_id": "3"
+	},
+	{
+		"id": "98",
+		"nomor_faktur": "RM1700098",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "64200",
+		"total": "64200",
+		"user_id": "3"
+	},
+	{
+		"id": "99",
+		"nomor_faktur": "RM1700099",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "1225000",
+		"total": "1225000",
+		"user_id": "3"
+	},
+	{
+		"id": "100",
+		"nomor_faktur": "RM1700100",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "77900",
+		"total": "77900",
+		"user_id": "3"
+	},
+	{
+		"id": "101",
+		"nomor_faktur": "RM1700101",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "491600",
+		"total": "491600",
+		"user_id": "3"
+	},
+	{
+		"id": "102",
+		"nomor_faktur": "RM1700102",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "781500",
+		"total": "781500",
+		"user_id": "3"
+	},
+	{
+		"id": "103",
+		"nomor_faktur": "RM1700103",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "200000",
+		"total": "200000",
+		"user_id": "3"
+	},
+	{
+		"id": "104",
+		"nomor_faktur": "RM1700104",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "846000",
+		"total": "846000",
+		"user_id": "3"
+	},
+	{
+		"id": "105",
+		"nomor_faktur": "RM1700105",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "190980",
+		"total": "190980",
+		"user_id": "3"
+	},
+	{
+		"id": "106",
+		"nomor_faktur": "RM1700106",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "429000",
+		"total": "429000",
+		"user_id": "3"
+	},
+	{
+		"id": "107",
+		"nomor_faktur": "RM1700107",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "480",
+		"total": "480",
+		"user_id": "3"
+	},
+	{
+		"id": "108",
+		"nomor_faktur": "RM1700108",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "288640",
+		"total": "288640",
+		"user_id": "3"
+	},
+	{
+		"id": "109",
+		"nomor_faktur": "RM1700109",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "1236970",
+		"total": "1236970",
+		"user_id": "3"
+	},
+	{
+		"id": "110",
+		"nomor_faktur": "RM1700110",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "246000",
+		"total": "246000",
+		"user_id": "3"
+	},
+	{
+		"id": "111",
+		"nomor_faktur": "RM1700111",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "517830",
+		"total": "517830",
+		"user_id": "3"
+	},
+	{
+		"id": "112",
+		"nomor_faktur": "RM1700112",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "231000",
+		"total": "231000",
+		"user_id": "3"
+	},
+	{
+		"id": "113",
+		"nomor_faktur": "RM1700113",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "13500",
+		"total": "13500",
+		"user_id": "3"
+	},
+	{
+		"id": "114",
+		"nomor_faktur": "RM1700114",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "7500",
+		"total": "7500",
+		"user_id": "3"
+	},
+	{
+		"id": "115",
+		"nomor_faktur": "RM1700115",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "29500",
+		"total": "29500",
+		"user_id": "3"
+	},
+	{
+		"id": "116",
+		"nomor_faktur": "RM1700116",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "565800",
+		"total": "565800",
+		"user_id": "3"
+	},
+	{
+		"id": "117",
+		"nomor_faktur": "RM1700117",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "2000",
+		"total": "2000",
+		"user_id": "3"
+	},
+	{
+		"id": "118",
+		"nomor_faktur": "RM1700118",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "292500",
+		"total": "292500",
+		"user_id": "3"
+	},
+	{
+		"id": "119",
+		"nomor_faktur": "RM1700119",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "900000",
+		"total": "900000",
+		"user_id": "3"
+	},
+	{
+		"id": "120",
+		"nomor_faktur": "RM1700120",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "40000",
+		"total": "40000",
+		"user_id": "3"
+	},
+	{
+		"id": "121",
+		"nomor_faktur": "RM1700121",
+		"tanggal": "2017-03-01",
+		"jumlah_bayar": "40000",
+		"total": "40000",
+		"user_id": "3"
+	},
+	{
+		"id": "122",
+		"nomor_faktur": "RM1700122",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "11000",
+		"total": "11000",
+		"user_id": "2"
+	},
+	{
+		"id": "123",
+		"nomor_faktur": "RM1700123",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "540000",
+		"total": "460000",
+		"user_id": "2"
+	},
+	{
+		"id": "124",
+		"nomor_faktur": "RM1700124",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "145700",
+		"total": "145700",
+		"user_id": "2"
+	},
+	{
+		"id": "125",
+		"nomor_faktur": "RM1700125",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "64000",
+		"total": "64000",
+		"user_id": "2"
+	},
+	{
+		"id": "126",
+		"nomor_faktur": "RM1700126",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "172200",
+		"total": "172200",
+		"user_id": "2"
+	},
+	{
+		"id": "127",
+		"nomor_faktur": "RM1700127",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "18000",
+		"total": "18000",
+		"user_id": "2"
+	},
+	{
+		"id": "128",
+		"nomor_faktur": "RM1700128",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "180600",
+		"total": "180600",
+		"user_id": "2"
+	},
+	{
+		"id": "129",
+		"nomor_faktur": "RM1700129",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "152000",
+		"total": "152000",
+		"user_id": "2"
+	},
+	{
+		"id": "130",
+		"nomor_faktur": "RM1700130",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "210000",
+		"total": "210000",
+		"user_id": "2"
+	},
+	{
+		"id": "131",
+		"nomor_faktur": "RM1700131",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "531100",
+		"total": "531100",
+		"user_id": "2"
+	},
+	{
+		"id": "132",
+		"nomor_faktur": "RM1700132",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "102200",
+		"total": "102200",
+		"user_id": "2"
+	},
+	{
+		"id": "133",
+		"nomor_faktur": "RM1700133",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "99900",
+		"total": "99900",
+		"user_id": "2"
+	},
+	{
+		"id": "134",
+		"nomor_faktur": "RM1700134",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "140700",
+		"total": "140700",
+		"user_id": "2"
+	},
+	{
+		"id": "135",
+		"nomor_faktur": "RM1700135",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "129200",
+		"total": "129200",
+		"user_id": "2"
+	},
+	{
+		"id": "136",
+		"nomor_faktur": "RM1700136",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "629800",
+		"total": "629800",
+		"user_id": "2"
+	},
+	{
+		"id": "137",
+		"nomor_faktur": "RM1700137",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "101200",
+		"total": "101200",
+		"user_id": "2"
+	},
+	{
+		"id": "138",
+		"nomor_faktur": "RM1700138",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "48600",
+		"total": "48600",
+		"user_id": "2"
+	},
+	{
+		"id": "139",
+		"nomor_faktur": "RM1700139",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "222000",
+		"total": "222000",
+		"user_id": "2"
+	},
+	{
+		"id": "140",
+		"nomor_faktur": "RM1700140",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "42800",
+		"total": "42800",
+		"user_id": "2"
+	},
+	{
+		"id": "141",
+		"nomor_faktur": "RM1700141",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "10800",
+		"total": "10800",
+		"user_id": "2"
+	},
+	{
+		"id": "142",
+		"nomor_faktur": "RM1700142",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "1155000",
+		"total": "1155000",
+		"user_id": "2"
+	},
+	{
+		"id": "143",
+		"nomor_faktur": "RM1700143",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "174800",
+		"total": "174800",
+		"user_id": "2"
+	},
+	{
+		"id": "144",
+		"nomor_faktur": "RM1700144",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "474000",
+		"total": "474000",
+		"user_id": "2"
+	},
+	{
+		"id": "145",
+		"nomor_faktur": "RM1700145",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "745500",
+		"total": "745500",
+		"user_id": "2"
+	},
+	{
+		"id": "146",
+		"nomor_faktur": "RM1700146",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "735000",
+		"total": "735000",
+		"user_id": "2"
+	},
+	{
+		"id": "147",
+		"nomor_faktur": "RM1700147",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "741600",
+		"total": "741600",
+		"user_id": "2"
+	},
+	{
+		"id": "148",
+		"nomor_faktur": "RM1700148",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "286560",
+		"total": "286560",
+		"user_id": "2"
+	},
+	{
+		"id": "149",
+		"nomor_faktur": "RM1700149",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "351000",
+		"total": "351000",
+		"user_id": "2"
+	},
+	{
+		"id": "150",
+		"nomor_faktur": "RM1700150",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "18360",
+		"total": "18360",
+		"user_id": "2"
+	},
+	{
+		"id": "151",
+		"nomor_faktur": "RM1700151",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "123000",
+		"total": "123000",
+		"user_id": "2"
+	},
+	{
+		"id": "152",
+		"nomor_faktur": "RM1700152",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "1771200",
+		"total": "1771200",
+		"user_id": "2"
+	},
+	{
+		"id": "153",
+		"nomor_faktur": "RM1700153",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "947100",
+		"total": "947100",
+		"user_id": "2"
+	},
+	{
+		"id": "154",
+		"nomor_faktur": "RM1700154",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "1064360",
+		"total": "1064360",
+		"user_id": "2"
+	},
+	{
+		"id": "155",
+		"nomor_faktur": "RM1700155",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "21500",
+		"total": "21500",
+		"user_id": "2"
+	},
+	{
+		"id": "156",
+		"nomor_faktur": "RM1700156",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "17400",
+		"total": "17400",
+		"user_id": "2"
+	},
+	{
+		"id": "157",
+		"nomor_faktur": "RM1700157",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "29500",
+		"total": "29500",
+		"user_id": "2"
+	},
+	{
+		"id": "158",
+		"nomor_faktur": "RM1700158",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "123000",
+		"total": "123000",
+		"user_id": "2"
+	},
+	{
+		"id": "159",
+		"nomor_faktur": "RM1700159",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "111600",
+		"total": "111600",
+		"user_id": "2"
+	},
+	{
+		"id": "160",
+		"nomor_faktur": "RM1700160",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "63000",
+		"total": "63000",
+		"user_id": "2"
+	},
+	{
+		"id": "161",
+		"nomor_faktur": "RM1700161",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "900000",
+		"total": "900000",
+		"user_id": "2"
+	},
+	{
+		"id": "162",
+		"nomor_faktur": "RM1700162",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "60000",
+		"total": "60000",
+		"user_id": "2"
+	},
+	{
+		"id": "163",
+		"nomor_faktur": "RM1700163",
+		"tanggal": "2017-04-01",
+		"jumlah_bayar": "130000",
+		"total": "130000",
+		"user_id": "2"
+	},
+	{
+		"id": "164",
+		"nomor_faktur": "RM1700164",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "44000",
+		"total": "44000",
+		"user_id": "3"
+	},
+	{
+		"id": "165",
+		"nomor_faktur": "RM1700165",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "820000",
+		"total": "680000",
+		"user_id": "3"
+	},
+	{
+		"id": "166",
+		"nomor_faktur": "RM1700166",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "117800",
+		"total": "117800",
+		"user_id": "3"
+	},
+	{
+		"id": "167",
+		"nomor_faktur": "RM1700167",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "229600",
+		"total": "229600",
+		"user_id": "3"
+	},
+	{
+		"id": "168",
+		"nomor_faktur": "RM1700168",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "58500",
+		"total": "58500",
+		"user_id": "3"
+	},
+	{
+		"id": "169",
+		"nomor_faktur": "RM1700169",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "206400",
+		"total": "206400",
+		"user_id": "3"
+	},
+	{
+		"id": "170",
+		"nomor_faktur": "RM1700170",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "212800",
+		"total": "212800",
+		"user_id": "3"
+	},
+	{
+		"id": "171",
+		"nomor_faktur": "RM1700171",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "122500",
+		"total": "122500",
+		"user_id": "3"
+	},
+	{
+		"id": "172",
+		"nomor_faktur": "RM1700172",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "22600",
+		"total": "22600",
+		"user_id": "3"
+	},
+	{
+		"id": "173",
+		"nomor_faktur": "RM1700173",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "292000",
+		"total": "292000",
+		"user_id": "3"
+	},
+	{
+		"id": "174",
+		"nomor_faktur": "RM1700174",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "59200",
+		"total": "59200",
+		"user_id": "3"
+	},
+	{
+		"id": "175",
+		"nomor_faktur": "RM1700175",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "20100",
+		"total": "20100",
+		"user_id": "3"
+	},
+	{
+		"id": "176",
+		"nomor_faktur": "RM1700176",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "205200",
+		"total": "205200",
+		"user_id": "3"
+	},
+	{
+		"id": "177",
+		"nomor_faktur": "RM1700177",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "1076300",
+		"total": "888300",
+		"user_id": "3"
+	},
+	{
+		"id": "178",
+		"nomor_faktur": "RM1700178",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "620400",
+		"total": "620400",
+		"user_id": "3"
+	},
+	{
+		"id": "179",
+		"nomor_faktur": "RM1700179",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "510000",
+		"total": "510000",
+		"user_id": "3"
+	},
+	{
+		"id": "180",
+		"nomor_faktur": "RM1700180",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "299600",
+		"total": "203300",
+		"user_id": "3"
+	},
+	{
+		"id": "181",
+		"nomor_faktur": "RM1700181",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "27000",
+		"total": "27000",
+		"user_id": "3"
+	},
+	{
+		"id": "182",
+		"nomor_faktur": "RM1700182",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "4099200",
+		"total": "4099200",
+		"user_id": "3"
+	},
+	{
+		"id": "183",
+		"nomor_faktur": "RM1700183",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "483550",
+		"total": "483550",
+		"user_id": "3"
+	},
+	{
+		"id": "184",
+		"nomor_faktur": "RM1700184",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "1246800",
+		"total": "846000",
+		"user_id": "3"
+	},
+	{
+		"id": "185",
+		"nomor_faktur": "RM1700185",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "1014000",
+		"total": "819000",
+		"user_id": "3"
+	},
+	{
+		"id": "186",
+		"nomor_faktur": "RM1700186",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "200000",
+		"total": "200000",
+		"user_id": "3"
+	},
+	{
+		"id": "187",
+		"nomor_faktur": "RM1700187",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "835200",
+		"total": "835200",
+		"user_id": "3"
+	},
+	{
+		"id": "188",
+		"nomor_faktur": "RM1700188",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "535680",
+		"total": "535680",
+		"user_id": "3"
+	},
+	{
+		"id": "189",
+		"nomor_faktur": "RM1700189",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "585000",
+		"total": "585000",
+		"user_id": "3"
+	},
+	{
+		"id": "190",
+		"nomor_faktur": "RM1700190",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "274200",
+		"total": "274200",
+		"user_id": "3"
+	},
+	{
+		"id": "191",
+		"nomor_faktur": "RM1700191",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "2700",
+		"total": "2700",
+		"user_id": "3"
+	},
+	{
+		"id": "192",
+		"nomor_faktur": "RM1700192",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "196800",
+		"total": "196800",
+		"user_id": "3"
+	},
+	{
+		"id": "193",
+		"nomor_faktur": "RM1700193",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "2008590",
+		"total": "2008590",
+		"user_id": "3"
+	},
+	{
+		"id": "194",
+		"nomor_faktur": "RM1700194",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "833120",
+		"total": "833120",
+		"user_id": "3"
+	},
+	{
+		"id": "195",
+		"nomor_faktur": "RM1700195",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "1644100",
+		"total": "1644100",
+		"user_id": "3"
+	},
+	{
+		"id": "196",
+		"nomor_faktur": "RM1700196",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "215600",
+		"total": "215600",
+		"user_id": "3"
+	},
+	{
+		"id": "197",
+		"nomor_faktur": "RM1700197",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "10750",
+		"total": "10750",
+		"user_id": "3"
+	},
+	{
+		"id": "198",
+		"nomor_faktur": "RM1700198",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "9300",
+		"total": "9300",
+		"user_id": "3"
+	},
+	{
+		"id": "199",
+		"nomor_faktur": "RM1700199",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "13200",
+		"total": "13200",
+		"user_id": "3"
+	},
+	{
+		"id": "200",
+		"nomor_faktur": "RM1700200",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "47200",
+		"total": "47200",
+		"user_id": "3"
+	},
+	{
+		"id": "201",
+		"nomor_faktur": "RM1700201",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "393600",
+		"total": "393600",
+		"user_id": "3"
+	},
+	{
+		"id": "202",
+		"nomor_faktur": "RM1700202",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "29400",
+		"total": "29400",
+		"user_id": "3"
+	},
+	{
+		"id": "203",
+		"nomor_faktur": "RM1700203",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "2000",
+		"total": "2000",
+		"user_id": "3"
+	},
+	{
+		"id": "204",
+		"nomor_faktur": "RM1700204",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "117000",
+		"total": "117000",
+		"user_id": "3"
+	},
+	{
+		"id": "205",
+		"nomor_faktur": "RM1700205",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "650000",
+		"total": "650000",
+		"user_id": "3"
+	},
+	{
+		"id": "206",
+		"nomor_faktur": "RM1700206",
+		"tanggal": "2017-05-01",
+		"jumlah_bayar": "15400",
+		"total": "15400",
+		"user_id": "3"
+	},
+	{
+		"id": "207",
+		"nomor_faktur": "RM1700207",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "11000",
+		"total": "11000",
+		"user_id": "3"
+	},
+	{
+		"id": "208",
+		"nomor_faktur": "RM1700208",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "740000",
+		"total": "740000",
+		"user_id": "3"
+	},
+	{
+		"id": "209",
+		"nomor_faktur": "RM1700209",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "31000",
+		"total": "31000",
+		"user_id": "3"
+	},
+	{
+		"id": "210",
+		"nomor_faktur": "RM1700210",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "82000",
+		"total": "82000",
+		"user_id": "3"
+	},
+	{
+		"id": "211",
+		"nomor_faktur": "RM1700211",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "9000",
+		"total": "9000",
+		"user_id": "3"
+	},
+	{
+		"id": "212",
+		"nomor_faktur": "RM1700212",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "21500",
+		"total": "21500",
+		"user_id": "3"
+	},
+	{
+		"id": "213",
+		"nomor_faktur": "RM1700213",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "60800",
+		"total": "60800",
+		"user_id": "3"
+	},
+	{
+		"id": "214",
+		"nomor_faktur": "RM1700214",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "35000",
+		"total": "35000",
+		"user_id": "3"
+	},
+	{
+		"id": "215",
+		"nomor_faktur": "RM1700215",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "226000",
+		"total": "226000",
+		"user_id": "3"
+	},
+	{
+		"id": "216",
+		"nomor_faktur": "RM1700216",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "394200",
+		"total": "394200",
+		"user_id": "3"
+	},
+	{
+		"id": "217",
+		"nomor_faktur": "RM1700217",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "99900",
+		"total": "99900",
+		"user_id": "3"
+	},
+	{
+		"id": "218",
+		"nomor_faktur": "RM1700218",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "160800",
+		"total": "160800",
+		"user_id": "3"
+	},
+	{
+		"id": "219",
+		"nomor_faktur": "RM1700219",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "76000",
+		"total": "76000",
+		"user_id": "3"
+	},
+	{
+		"id": "220",
+		"nomor_faktur": "RM1700220",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "902400",
+		"total": "902400",
+		"user_id": "3"
+	},
+	{
+		"id": "221",
+		"nomor_faktur": "RM1700221",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "206800",
+		"total": "206800",
+		"user_id": "3"
+	},
+	{
+		"id": "222",
+		"nomor_faktur": "RM1700222",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "5400",
+		"total": "5400",
+		"user_id": "3"
+	},
+	{
+		"id": "223",
+		"nomor_faktur": "RM1700223",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "246000",
+		"total": "246000",
+		"user_id": "3"
+	},
+	{
+		"id": "224",
+		"nomor_faktur": "RM1700224",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "32100",
+		"total": "32100",
+		"user_id": "3"
+	},
+	{
+		"id": "225",
+		"nomor_faktur": "RM1700225",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "2163000",
+		"total": "2163000",
+		"user_id": "3"
+	},
+	{
+		"id": "226",
+		"nomor_faktur": "RM1700226",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "374300",
+		"total": "374300",
+		"user_id": "3"
+	},
+	{
+		"id": "227",
+		"nomor_faktur": "RM1700227",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "391600",
+		"total": "391600",
+		"user_id": "3"
+	},
+	{
+		"id": "228",
+		"nomor_faktur": "RM1700228",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "921000",
+		"total": "921000",
+		"user_id": "3"
+	},
+	{
+		"id": "229",
+		"nomor_faktur": "RM1700229",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "350000",
+		"total": "350000",
+		"user_id": "3"
+	},
+	{
+		"id": "230",
+		"nomor_faktur": "RM1700230",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "774000",
+		"total": "774000",
+		"user_id": "3"
+	},
+	{
+		"id": "231",
+		"nomor_faktur": "RM1700231",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "142380",
+		"total": "142380",
+		"user_id": "3"
+	},
+	{
+		"id": "232",
+		"nomor_faktur": "RM1700232",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "195000",
+		"total": "195000",
+		"user_id": "3"
+	},
+	{
+		"id": "233",
+		"nomor_faktur": "RM1700233",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "4080",
+		"total": "4080",
+		"user_id": "3"
+	},
+	{
+		"id": "234",
+		"nomor_faktur": "RM1700234",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "284540",
+		"total": "284540",
+		"user_id": "3"
+	},
+	{
+		"id": "235",
+		"nomor_faktur": "RM1700235",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "1823680",
+		"total": "1823680",
+		"user_id": "3"
+	},
+	{
+		"id": "236",
+		"nomor_faktur": "RM1700236",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "704380",
+		"total": "704380",
+		"user_id": "3"
+	},
+	{
+		"id": "237",
+		"nomor_faktur": "RM1700237",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "767930",
+		"total": "767930",
+		"user_id": "3"
+	},
+	{
+		"id": "238",
+		"nomor_faktur": "RM1700238",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "13500",
+		"total": "13500",
+		"user_id": "3"
+	},
+	{
+		"id": "239",
+		"nomor_faktur": "RM1700239",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "430500",
+		"total": "430500",
+		"user_id": "3"
+	},
+	{
+		"id": "240",
+		"nomor_faktur": "RM1700240",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "1200",
+		"total": "1200",
+		"user_id": "3"
+	},
+	{
+		"id": "241",
+		"nomor_faktur": "RM1700241",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "2000",
+		"total": "2000",
+		"user_id": "3"
+	},
+	{
+		"id": "242",
+		"nomor_faktur": "RM1700242",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "1025000",
+		"total": "1025000",
+		"user_id": "3"
+	},
+	{
+		"id": "243",
+		"nomor_faktur": "RM1700243",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "20000",
+		"total": "20000",
+		"user_id": "3"
+	},
+	{
+		"id": "244",
+		"nomor_faktur": "RM1700244",
+		"tanggal": "2017-06-01",
+		"jumlah_bayar": "80000",
+		"total": "80000",
+		"user_id": "3"
+	},
+	{
+		"id": "245",
+		"nomor_faktur": "RM1700245",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "110000",
+		"total": "110000",
+		"user_id": "2"
+	},
+	{
+		"id": "246",
+		"nomor_faktur": "RM1700246",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "590000",
+		"total": "590000",
+		"user_id": "2"
+	},
+	{
+		"id": "247",
+		"nomor_faktur": "RM1700247",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "77500",
+		"total": "77500",
+		"user_id": "2"
+	},
+	{
+		"id": "248",
+		"nomor_faktur": "RM1700248",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "115200",
+		"total": "115200",
+		"user_id": "2"
+	},
+	{
+		"id": "249",
+		"nomor_faktur": "RM1700249",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "221400",
+		"total": "221400",
+		"user_id": "2"
+	},
+	{
+		"id": "250",
+		"nomor_faktur": "RM1700250",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "18000",
+		"total": "18000",
+		"user_id": "2"
+	},
+	{
+		"id": "251",
+		"nomor_faktur": "RM1700251",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "43000",
+		"total": "43000",
+		"user_id": "2"
+	},
+	{
+		"id": "252",
+		"nomor_faktur": "RM1700252",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "182400",
+		"total": "182400",
+		"user_id": "2"
+	},
+	{
+		"id": "253",
+		"nomor_faktur": "RM1700253",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "192500",
+		"total": "192500",
+		"user_id": "2"
+	},
+	{
+		"id": "254",
+		"nomor_faktur": "RM1700254",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "644100",
+		"total": "644100",
+		"user_id": "2"
+	},
+	{
+		"id": "255",
+		"nomor_faktur": "RM1700255",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "146000",
+		"total": "146000",
+		"user_id": "2"
+	},
+	{
+		"id": "256",
+		"nomor_faktur": "RM1700256",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "92500",
+		"total": "92500",
+		"user_id": "2"
+	},
+	{
+		"id": "257",
+		"nomor_faktur": "RM1700257",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "33500",
+		"total": "33500",
+		"user_id": "2"
+	},
+	{
+		"id": "258",
+		"nomor_faktur": "RM1700258",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "83600",
+		"total": "83600",
+		"user_id": "2"
+	},
+	{
+		"id": "259",
+		"nomor_faktur": "RM1700259",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "864800",
+		"total": "864800",
+		"user_id": "2"
+	},
+	{
+		"id": "260",
+		"nomor_faktur": "RM1700260",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "244200",
+		"total": "244200",
+		"user_id": "2"
+	},
+	{
+		"id": "261",
+		"nomor_faktur": "RM1700261",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "124200",
+		"total": "124200",
+		"user_id": "2"
+	},
+	{
+		"id": "262",
+		"nomor_faktur": "RM1700262",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "333000",
+		"total": "333000",
+		"user_id": "2"
+	},
+	{
+		"id": "263",
+		"nomor_faktur": "RM1700263",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "74900",
+		"total": "74900",
+		"user_id": "2"
+	},
+	{
+		"id": "264",
+		"nomor_faktur": "RM1700264",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "5400",
+		"total": "5400",
+		"user_id": "2"
+	},
+	{
+		"id": "265",
+		"nomor_faktur": "RM1700265",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "868000",
+		"total": "868000",
+		"user_id": "2"
+	},
+	{
+		"id": "266",
+		"nomor_faktur": "RM1700266",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "95000",
+		"total": "95000",
+		"user_id": "2"
+	},
+	{
+		"id": "267",
+		"nomor_faktur": "RM1700267",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "430000",
+		"total": "430000",
+		"user_id": "2"
+	},
+	{
+		"id": "268",
+		"nomor_faktur": "RM1700268",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "693000",
+		"total": "835500",
+		"user_id": "2"
+	},
+	{
+		"id": "269",
+		"nomor_faktur": "RM1700269",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "200000",
+		"total": "200000",
+		"user_id": "2"
+	},
+	{
+		"id": "270",
+		"nomor_faktur": "RM1700270",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "432000",
+		"total": "432000",
+		"user_id": "2"
+	},
+	{
+		"id": "271",
+		"nomor_faktur": "RM1700271",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "130680",
+		"total": "130680",
+		"user_id": "2"
+	},
+	{
+		"id": "272",
+		"nomor_faktur": "RM1700272",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "624000",
+		"total": "624000",
+		"user_id": "2"
+	},
+	{
+		"id": "273",
+		"nomor_faktur": "RM1700273",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "131200",
+		"total": "131200",
+		"user_id": "2"
+	},
+	{
+		"id": "274",
+		"nomor_faktur": "RM1700274",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "425580",
+		"total": "425580",
+		"user_id": "2"
+	},
+	{
+		"id": "275",
+		"nomor_faktur": "RM1700275",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "418200",
+		"total": "418200",
+		"user_id": "2"
+	},
+	{
+		"id": "276",
+		"nomor_faktur": "RM1700276",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "619510",
+		"total": "619510",
+		"user_id": "2"
+	},
+	{
+		"id": "277",
+		"nomor_faktur": "RM1700277",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "23600",
+		"total": "23600",
+		"user_id": "2"
+	},
+	{
+		"id": "278",
+		"nomor_faktur": "RM1700278",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "565800",
+		"total": "565800",
+		"user_id": "2"
+	},
+	{
+		"id": "279",
+		"nomor_faktur": "RM1700279",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "7500",
+		"total": "7500",
+		"user_id": "2"
+	},
+	{
+		"id": "280",
+		"nomor_faktur": "RM1700280",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "58500",
+		"total": "58500",
+		"user_id": "2"
+	},
+	{
+		"id": "281",
+		"nomor_faktur": "RM1700281",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "1250000",
+		"total": "1250000",
+		"user_id": "2"
+	},
+	{
+		"id": "282",
+		"nomor_faktur": "RM1700282",
+		"tanggal": "2017-07-01",
+		"jumlah_bayar": "29700",
+		"total": "29700",
+		"user_id": "2"
+	},
+	{
+		"id": "283",
+		"nomor_faktur": "RM1700283",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "33000",
+		"total": "33000",
+		"user_id": "3"
+	},
+	{
+		"id": "284",
+		"nomor_faktur": "RM1700284",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "550000",
+		"total": "550000",
+		"user_id": "3"
+	},
+	{
+		"id": "285",
+		"nomor_faktur": "RM1700285",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "210800",
+		"total": "210800",
+		"user_id": "3"
+	},
+	{
+		"id": "286",
+		"nomor_faktur": "RM1700286",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "82000",
+		"total": "82000",
+		"user_id": "3"
+	},
+	{
+		"id": "287",
+		"nomor_faktur": "RM1700287",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "31500",
+		"total": "31500",
+		"user_id": "3"
+	},
+	{
+		"id": "288",
+		"nomor_faktur": "RM1700288",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "163400",
+		"total": "163400",
+		"user_id": "3"
+	},
+	{
+		"id": "289",
+		"nomor_faktur": "RM1700289",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "243200",
+		"total": "243200",
+		"user_id": "3"
+	},
+	{
+		"id": "290",
+		"nomor_faktur": "RM1700290",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "157500",
+		"total": "157500",
+		"user_id": "3"
+	},
+	{
+		"id": "291",
+		"nomor_faktur": "RM1700291",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "621500",
+		"total": "621500",
+		"user_id": "3"
+	},
+	{
+		"id": "292",
+		"nomor_faktur": "RM1700292",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "102200",
+		"total": "102200",
+		"user_id": "3"
+	},
+	{
+		"id": "293",
+		"nomor_faktur": "RM1700293",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "59200",
+		"total": "59200",
+		"user_id": "3"
+	},
+	{
+		"id": "294",
+		"nomor_faktur": "RM1700294",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "241200",
+		"total": "241200",
+		"user_id": "3"
+	},
+	{
+		"id": "295",
+		"nomor_faktur": "RM1700295",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "171000",
+		"total": "171000",
+		"user_id": "3"
+	},
+	{
+		"id": "296",
+		"nomor_faktur": "RM1700296",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "1034000",
+		"total": "1034000",
+		"user_id": "3"
+	},
+	{
+		"id": "297",
+		"nomor_faktur": "RM1700297",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "321200",
+		"total": "321200",
+		"user_id": "3"
+	},
+	{
+		"id": "298",
+		"nomor_faktur": "RM1700298",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "43200",
+		"total": "43200",
+		"user_id": "3"
+	},
+	{
+		"id": "299",
+		"nomor_faktur": "RM1700299",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "90000",
+		"total": "90000",
+		"user_id": "3"
+	},
+	{
+		"id": "300",
+		"nomor_faktur": "RM1700300",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "96300",
+		"total": "96300",
+		"user_id": "3"
+	},
+	{
+		"id": "301",
+		"nomor_faktur": "RM1700301",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "1677200",
+		"total": "1677200",
+		"user_id": "3"
+	},
+	{
+		"id": "302",
+		"nomor_faktur": "RM1700302",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "228000",
+		"total": "228000",
+		"user_id": "3"
+	},
+	{
+		"id": "303",
+		"nomor_faktur": "RM1700303",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "404000",
+		"total": "404000",
+		"user_id": "3"
+	},
+	{
+		"id": "304",
+		"nomor_faktur": "RM1700304",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "1066500",
+		"total": "1066500",
+		"user_id": "3"
+	},
+	{
+		"id": "305",
+		"nomor_faktur": "RM1700305",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "27500",
+		"total": "27500",
+		"user_id": "3"
+	},
+	{
+		"id": "306",
+		"nomor_faktur": "RM1700306",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "666000",
+		"total": "666000",
+		"user_id": "3"
+	},
+	{
+		"id": "307",
+		"nomor_faktur": "RM1700307",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "239760",
+		"total": "239760",
+		"user_id": "3"
+	},
+	{
+		"id": "308",
+		"nomor_faktur": "RM1700308",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "390000",
+		"total": "390000",
+		"user_id": "3"
+	},
+	{
+		"id": "309",
+		"nomor_faktur": "RM1700309",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "240000",
+		"total": "240000",
+		"user_id": "3"
+	},
+	{
+		"id": "310",
+		"nomor_faktur": "RM1700310",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "492000",
+		"total": "492000",
+		"user_id": "3"
+	},
+	{
+		"id": "311",
+		"nomor_faktur": "RM1700311",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "1602690",
+		"total": "1602690",
+		"user_id": "3"
+	},
+	{
+		"id": "312",
+		"nomor_faktur": "RM1700312",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "701100",
+		"total": "701100",
+		"user_id": "3"
+	},
+	{
+		"id": "313",
+		"nomor_faktur": "RM1700313",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "795400",
+		"total": "795400",
+		"user_id": "3"
+	},
+	{
+		"id": "314",
+		"nomor_faktur": "RM1700314",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "161700",
+		"total": "161700",
+		"user_id": "3"
+	},
+	{
+		"id": "315",
+		"nomor_faktur": "RM1700315",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "43500",
+		"total": "43500",
+		"user_id": "3"
+	},
+	{
+		"id": "316",
+		"nomor_faktur": "RM1700316",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "76700",
+		"total": "76700",
+		"user_id": "3"
+	},
+	{
+		"id": "317",
+		"nomor_faktur": "RM1700317",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "295200",
+		"total": "295200",
+		"user_id": "3"
+	},
+	{
+		"id": "318",
+		"nomor_faktur": "RM1700318",
+		"tanggal": "2017-08-01",
+		"jumlah_bayar": "49600",
+		"total": "49600",
+		"user_id": "3"
+	},
+	{
+		"id": "319",
+		"nomor_faktur": "RM1700319",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "430000",
+		"total": "560000",
+		"user_id": "3"
+	},
+	{
+		"id": "320",
+		"nomor_faktur": "RM1700320",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "62000",
+		"total": "62000",
+		"user_id": "3"
+	},
+	{
+		"id": "321",
+		"nomor_faktur": "RM1700321",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "49200",
+		"total": "49200",
+		"user_id": "3"
+	},
+	{
+		"id": "322",
+		"nomor_faktur": "RM1700322",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "172000",
+		"total": "172000",
+		"user_id": "3"
+	},
+	{
+		"id": "323",
+		"nomor_faktur": "RM1700323",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "212800",
+		"total": "212800",
+		"user_id": "3"
+	},
+	{
+		"id": "324",
+		"nomor_faktur": "RM1700324",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "52500",
+		"total": "52500",
+		"user_id": "3"
+	},
+	{
+		"id": "325",
+		"nomor_faktur": "RM1700325",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "689300",
+		"total": "689300",
+		"user_id": "3"
+	},
+	{
+		"id": "326",
+		"nomor_faktur": "RM1700326",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "219000",
+		"total": "219000",
+		"user_id": "3"
+	},
+	{
+		"id": "327",
+		"nomor_faktur": "RM1700327",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "92500",
+		"total": "92500",
+		"user_id": "3"
+	},
+	{
+		"id": "328",
+		"nomor_faktur": "RM1700328",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "120600",
+		"total": "120600",
+		"user_id": "3"
+	},
+	{
+		"id": "329",
+		"nomor_faktur": "RM1700329",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "41800",
+		"total": "41800",
+		"user_id": "3"
+	},
+	{
+		"id": "330",
+		"nomor_faktur": "RM1700330",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "925900",
+		"total": "925900",
+		"user_id": "3"
+	},
+	{
+		"id": "331",
+		"nomor_faktur": "RM1700331",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "286000",
+		"total": "286000",
+		"user_id": "3"
+	},
+	{
+		"id": "332",
+		"nomor_faktur": "RM1700332",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "285000",
+		"total": "285000",
+		"user_id": "3"
+	},
+	{
+		"id": "333",
+		"nomor_faktur": "RM1700333",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "85600",
+		"total": "85600",
+		"user_id": "3"
+	},
+	{
+		"id": "334",
+		"nomor_faktur": "RM1700334",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "1477000",
+		"total": "1477000",
+		"user_id": "3"
+	},
+	{
+		"id": "335",
+		"nomor_faktur": "RM1700335",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "229900",
+		"total": "229900",
+		"user_id": "3"
+	},
+	{
+		"id": "336",
+		"nomor_faktur": "RM1700336",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "611000",
+		"total": "611000",
+		"user_id": "3"
+	},
+	{
+		"id": "337",
+		"nomor_faktur": "RM1700337",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "936000",
+		"total": "936000",
+		"user_id": "3"
+	},
+	{
+		"id": "338",
+		"nomor_faktur": "RM1700338",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "427500",
+		"total": "427500",
+		"user_id": "3"
+	},
+	{
+		"id": "339",
+		"nomor_faktur": "RM1700339",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "972000",
+		"total": "972000",
+		"user_id": "3"
+	},
+	{
+		"id": "340",
+		"nomor_faktur": "RM1700340",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "262620",
+		"total": "262620",
+		"user_id": "3"
+	},
+	{
+		"id": "341",
+		"nomor_faktur": "RM1700341",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "390000",
+		"total": "390000",
+		"user_id": "3"
+	},
+	{
+		"id": "342",
+		"nomor_faktur": "RM1700342",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "369000",
+		"total": "369000",
+		"user_id": "3"
+	},
+	{
+		"id": "343",
+		"nomor_faktur": "RM1700343",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "1486250",
+		"total": "1486250",
+		"user_id": "3"
+	},
+	{
+		"id": "344",
+		"nomor_faktur": "RM1700344",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "828200",
+		"total": "828200",
+		"user_id": "3"
+	},
+	{
+		"id": "345",
+		"nomor_faktur": "RM1700345",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "580150",
+		"total": "580150",
+		"user_id": "3"
+	},
+	{
+		"id": "346",
+		"nomor_faktur": "RM1700346",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "7700",
+		"total": "7700",
+		"user_id": "3"
+	},
+	{
+		"id": "347",
+		"nomor_faktur": "RM1700347",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "9600",
+		"total": "9600",
+		"user_id": "3"
+	},
+	{
+		"id": "348",
+		"nomor_faktur": "RM1700348",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "236000",
+		"total": "236000",
+		"user_id": "3"
+	},
+	{
+		"id": "349",
+		"nomor_faktur": "RM1700349",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "332100",
+		"total": "332100",
+		"user_id": "3"
+	},
+	{
+		"id": "350",
+		"nomor_faktur": "RM1700350",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "186000",
+		"total": "186000",
+		"user_id": "3"
+	},
+	{
+		"id": "351",
+		"nomor_faktur": "RM1700351",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "127500",
+		"total": "127500",
+		"user_id": "3"
+	},
+	{
+		"id": "352",
+		"nomor_faktur": "RM1700352",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "1900000",
+		"total": "1900000",
+		"user_id": "3"
+	},
+	{
+		"id": "353",
+		"nomor_faktur": "RM1700353",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "19800",
+		"total": "19800",
+		"user_id": "3"
+	},
+	{
+		"id": "354",
+		"nomor_faktur": "RM1700354",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "60000",
+		"total": "60000",
+		"user_id": "3"
+	},
+	{
+		"id": "355",
+		"nomor_faktur": "RM1700355",
+		"tanggal": "2017-09-01",
+		"jumlah_bayar": "120800",
+		"total": "120800",
+		"user_id": "3"
+	},
+	{
+		"id": "356",
+		"nomor_faktur": "RM1700356",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "720000",
+		"total": "670000",
+		"user_id": "2"
+	},
+	{
+		"id": "357",
+		"nomor_faktur": "RM1700357",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "241800",
+		"total": "241800",
+		"user_id": "2"
+	},
+	{
+		"id": "358",
+		"nomor_faktur": "RM1700358",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "172200",
+		"total": "172200",
+		"user_id": "2"
+	},
+	{
+		"id": "359",
+		"nomor_faktur": "RM1700359",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "18000",
+		"total": "18000",
+		"user_id": "2"
+	},
+	{
+		"id": "360",
+		"nomor_faktur": "RM1700360",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "197800",
+		"total": "197800",
+		"user_id": "2"
+	},
+	{
+		"id": "361",
+		"nomor_faktur": "RM1700361",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "182400",
+		"total": "182400",
+		"user_id": "2"
+	},
+	{
+		"id": "362",
+		"nomor_faktur": "RM1700362",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "245000",
+		"total": "245000",
+		"user_id": "2"
+	},
+	{
+		"id": "363",
+		"nomor_faktur": "RM1700363",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "644100",
+		"total": "644100",
+		"user_id": "2"
+	},
+	{
+		"id": "364",
+		"nomor_faktur": "RM1700364",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "219000",
+		"total": "219000",
+		"user_id": "2"
+	},
+	{
+		"id": "365",
+		"nomor_faktur": "RM1700365",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "151700",
+		"total": "151700",
+		"user_id": "2"
+	},
+	{
+		"id": "366",
+		"nomor_faktur": "RM1700366",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "140700",
+		"total": "140700",
+		"user_id": "2"
+	},
+	{
+		"id": "367",
+		"nomor_faktur": "RM1700367",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "133000",
+		"total": "133000",
+		"user_id": "2"
+	},
+	{
+		"id": "368",
+		"nomor_faktur": "RM1700368",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "752000",
+		"total": "752000",
+		"user_id": "2"
+	},
+	{
+		"id": "369",
+		"nomor_faktur": "RM1700369",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "217800",
+		"total": "217800",
+		"user_id": "2"
+	},
+	{
+		"id": "370",
+		"nomor_faktur": "RM1700370",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "48600",
+		"total": "48600",
+		"user_id": "2"
+	},
+	{
+		"id": "371",
+		"nomor_faktur": "RM1700371",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "222000",
+		"total": "222000",
+		"user_id": "2"
+	},
+	{
+		"id": "372",
+		"nomor_faktur": "RM1700372",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "32100",
+		"total": "32100",
+		"user_id": "2"
+	},
+	{
+		"id": "373",
+		"nomor_faktur": "RM1700373",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "5400",
+		"total": "5400",
+		"user_id": "2"
+	},
+	{
+		"id": "374",
+		"nomor_faktur": "RM1700374",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "1652000",
+		"total": "1652000",
+		"user_id": "2"
+	},
+	{
+		"id": "375",
+		"nomor_faktur": "RM1700375",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "174800",
+		"total": "174800",
+		"user_id": "2"
+	},
+	{
+		"id": "376",
+		"nomor_faktur": "RM1700376",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "474000",
+		"total": "474000",
+		"user_id": "2"
+	},
+	{
+		"id": "377",
+		"nomor_faktur": "RM1700377",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "960000",
+		"total": "960000",
+		"user_id": "2"
+	},
+	{
+		"id": "378",
+		"nomor_faktur": "RM1700378",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "757500",
+		"total": "757500",
+		"user_id": "2"
+	},
+	{
+		"id": "379",
+		"nomor_faktur": "RM1700379",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "923400",
+		"total": "923400",
+		"user_id": "2"
+	},
+	{
+		"id": "380",
+		"nomor_faktur": "RM1700380",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "286560",
+		"total": "286560",
+		"user_id": "2"
+	},
+	{
+		"id": "381",
+		"nomor_faktur": "RM1700381",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "351000",
+		"total": "351000",
+		"user_id": "2"
+	},
+	{
+		"id": "382",
+		"nomor_faktur": "RM1700382",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "18360",
+		"total": "18360",
+		"user_id": "2"
+	},
+	{
+		"id": "383",
+		"nomor_faktur": "RM1700383",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "123000",
+		"total": "123000",
+		"user_id": "2"
+	},
+	{
+		"id": "384",
+		"nomor_faktur": "RM1700384",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "1809740",
+		"total": "1809740",
+		"user_id": "2"
+	},
+	{
+		"id": "385",
+		"nomor_faktur": "RM1700385",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "946690",
+		"total": "946690",
+		"user_id": "2"
+	},
+	{
+		"id": "386",
+		"nomor_faktur": "RM1700386",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "1166860",
+		"total": "1166860",
+		"user_id": "2"
+	},
+	{
+		"id": "387",
+		"nomor_faktur": "RM1700387",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "21500",
+		"total": "21500",
+		"user_id": "2"
+	},
+	{
+		"id": "388",
+		"nomor_faktur": "RM1700388",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "17400",
+		"total": "17400",
+		"user_id": "2"
+	},
+	{
+		"id": "389",
+		"nomor_faktur": "RM1700389",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "82600",
+		"total": "82600",
+		"user_id": "2"
+	},
+	{
+		"id": "390",
+		"nomor_faktur": "RM1700390",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "516600",
+		"total": "516600",
+		"user_id": "2"
+	},
+	{
+		"id": "391",
+		"nomor_faktur": "RM1700391",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "111600",
+		"total": "111600",
+		"user_id": "2"
+	},
+	{
+		"id": "392",
+		"nomor_faktur": "RM1700392",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "60600",
+		"total": "60600",
+		"user_id": "2"
+	},
+	{
+		"id": "393",
+		"nomor_faktur": "RM1700393",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "900000",
+		"total": "900000",
+		"user_id": "2"
+	},
+	{
+		"id": "394",
+		"nomor_faktur": "RM1700394",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "60000",
+		"total": "60000",
+		"user_id": "2"
+	},
+	{
+		"id": "395",
+		"nomor_faktur": "RM1700395",
+		"tanggal": "2017-10-01",
+		"jumlah_bayar": "140600",
+		"total": "140600",
+		"user_id": "2"
+	},
+	{
+		"id": "396",
+		"nomor_faktur": "RM1700396",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "630000",
+		"total": "630000",
+		"user_id": "3"
+	},
+	{
+		"id": "397",
+		"nomor_faktur": "RM1700397",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "37200",
+		"total": "37200",
+		"user_id": "3"
+	},
+	{
+		"id": "398",
+		"nomor_faktur": "RM1700398",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "25600",
+		"total": "25600",
+		"user_id": "3"
+	},
+	{
+		"id": "399",
+		"nomor_faktur": "RM1700399",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "90200",
+		"total": "90200",
+		"user_id": "3"
+	},
+	{
+		"id": "400",
+		"nomor_faktur": "RM1700400",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "4500",
+		"total": "4500",
+		"user_id": "3"
+	},
+	{
+		"id": "401",
+		"nomor_faktur": "RM1700401",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "180600",
+		"total": "180600",
+		"user_id": "3"
+	},
+	{
+		"id": "402",
+		"nomor_faktur": "RM1700402",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "121600",
+		"total": "121600",
+		"user_id": "3"
+	},
+	{
+		"id": "403",
+		"nomor_faktur": "RM1700403",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "192500",
+		"total": "192500",
+		"user_id": "3"
+	},
+	{
+		"id": "404",
+		"nomor_faktur": "RM1700404",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "350300",
+		"total": "350300",
+		"user_id": "3"
+	},
+	{
+		"id": "405",
+		"nomor_faktur": "RM1700405",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "109500",
+		"total": "109500",
+		"user_id": "3"
+	},
+	{
+		"id": "406",
+		"nomor_faktur": "RM1700406",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "281200",
+		"total": "281200",
+		"user_id": "3"
+	},
+	{
+		"id": "407",
+		"nomor_faktur": "RM1700407",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "234500",
+		"total": "234500",
+		"user_id": "3"
+	},
+	{
+		"id": "408",
+		"nomor_faktur": "RM1700408",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "155800",
+		"total": "155800",
+		"user_id": "3"
+	},
+	{
+		"id": "409",
+		"nomor_faktur": "RM1700409",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "770800",
+		"total": "770800",
+		"user_id": "3"
+	},
+	{
+		"id": "410",
+		"nomor_faktur": "RM1700410",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "369600",
+		"total": "369600",
+		"user_id": "3"
+	},
+	{
+		"id": "411",
+		"nomor_faktur": "RM1700411",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "180900",
+		"total": "180900",
+		"user_id": "3"
+	},
+	{
+		"id": "412",
+		"nomor_faktur": "RM1700412",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "42000",
+		"total": "42000",
+		"user_id": "3"
+	},
+	{
+		"id": "413",
+		"nomor_faktur": "RM1700413",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "32100",
+		"total": "32100",
+		"user_id": "3"
+	},
+	{
+		"id": "414",
+		"nomor_faktur": "RM1700414",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "10800",
+		"total": "10800",
+		"user_id": "3"
+	},
+	{
+		"id": "415",
+		"nomor_faktur": "RM1700415",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "1844500",
+		"total": "1844500",
+		"user_id": "3"
+	},
+	{
+		"id": "416",
+		"nomor_faktur": "RM1700416",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "285000",
+		"total": "285000",
+		"user_id": "3"
+	},
+	{
+		"id": "417",
+		"nomor_faktur": "RM1700417",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "610000",
+		"total": "610000",
+		"user_id": "3"
+	},
+	{
+		"id": "418",
+		"nomor_faktur": "RM1700418",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "783000",
+		"total": "783000",
+		"user_id": "3"
+	},
+	{
+		"id": "419",
+		"nomor_faktur": "RM1700419",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "725000",
+		"total": "725000",
+		"user_id": "3"
+	},
+	{
+		"id": "420",
+		"nomor_faktur": "RM1700420",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "977400",
+		"total": "977400",
+		"user_id": "3"
+	},
+	{
+		"id": "421",
+		"nomor_faktur": "RM1700421",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "443520",
+		"total": "443520",
+		"user_id": "3"
+	},
+	{
+		"id": "422",
+		"nomor_faktur": "RM1700422",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "273000",
+		"total": "273000",
+		"user_id": "3"
+	},
+	{
+		"id": "423",
+		"nomor_faktur": "RM1700423",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "785560",
+		"total": "785560",
+		"user_id": "3"
+	},
+	{
+		"id": "424",
+		"nomor_faktur": "RM1700424",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "1232870",
+		"total": "1232870",
+		"user_id": "3"
+	},
+	{
+		"id": "425",
+		"nomor_faktur": "RM1700425",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "820000",
+		"total": "820000",
+		"user_id": "3"
+	},
+	{
+		"id": "426",
+		"nomor_faktur": "RM1700426",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "1165220",
+		"total": "1165220",
+		"user_id": "3"
+	},
+	{
+		"id": "427",
+		"nomor_faktur": "RM1700427",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "259600",
+		"total": "259600",
+		"user_id": "3"
+	},
+	{
+		"id": "428",
+		"nomor_faktur": "RM1700428",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "307500",
+		"total": "307500",
+		"user_id": "3"
+	},
+	{
+		"id": "429",
+		"nomor_faktur": "RM1700429",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "46500",
+		"total": "46500",
+		"user_id": "3"
+	},
+	{
+		"id": "430",
+		"nomor_faktur": "RM1700430",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "6000",
+		"total": "6000",
+		"user_id": "3"
+	},
+	{
+		"id": "431",
+		"nomor_faktur": "RM1700431",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "2050000",
+		"total": "2050000",
+		"user_id": "3"
+	},
+	{
+		"id": "432",
+		"nomor_faktur": "RM1700432",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "79200",
+		"total": "79200",
+		"user_id": "3"
+	},
+	{
+		"id": "433",
+		"nomor_faktur": "RM1700433",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "40000",
+		"total": "40000",
+		"user_id": "3"
+	},
+	{
+		"id": "434",
+		"nomor_faktur": "RM1700434",
+		"tanggal": "2017-11-01",
+		"jumlah_bayar": "180400",
+		"total": "180400",
+		"user_id": "3"
+	},
+	{
+		"id": "435",
+		"nomor_faktur": "RM1700435",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "570000",
+		"total": "570000",
+		"user_id": "3"
+	},
+	{
+		"id": "436",
+		"nomor_faktur": "RM1700436",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "9300",
+		"total": "9300",
+		"user_id": "3"
+	},
+	{
+		"id": "437",
+		"nomor_faktur": "RM1700437",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "51200",
+		"total": "51200",
+		"user_id": "3"
+	},
+	{
+		"id": "438",
+		"nomor_faktur": "RM1700438",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "82000",
+		"total": "82000",
+		"user_id": "3"
+	},
+	{
+		"id": "439",
+		"nomor_faktur": "RM1700439",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "9000",
+		"total": "9000",
+		"user_id": "3"
+	},
+	{
+		"id": "440",
+		"nomor_faktur": "RM1700440",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "159100",
+		"total": "159100",
+		"user_id": "3"
+	},
+	{
+		"id": "441",
+		"nomor_faktur": "RM1700441",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "121600",
+		"total": "121600",
+		"user_id": "3"
+	},
+	{
+		"id": "442",
+		"nomor_faktur": "RM1700442",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "175000",
+		"total": "175000",
+		"user_id": "3"
+	},
+	{
+		"id": "443",
+		"nomor_faktur": "RM1700443",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "226000",
+		"total": "226000",
+		"user_id": "3"
+	},
+	{
+		"id": "444",
+		"nomor_faktur": "RM1700444",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "124100",
+		"total": "124100",
+		"user_id": "3"
+	},
+	{
+		"id": "445",
+		"nomor_faktur": "RM1700445",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "236800",
+		"total": "236800",
+		"user_id": "3"
+	},
+	{
+		"id": "446",
+		"nomor_faktur": "RM1700446",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "214400",
+		"total": "214400",
+		"user_id": "3"
+	},
+	{
+		"id": "447",
+		"nomor_faktur": "RM1700447",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "140600",
+		"total": "140600",
+		"user_id": "3"
+	},
+	{
+		"id": "448",
+		"nomor_faktur": "RM1700448",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "808400",
+		"total": "808400",
+		"user_id": "3"
+	},
+	{
+		"id": "449",
+		"nomor_faktur": "RM1700449",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "367400",
+		"total": "367400",
+		"user_id": "3"
+	},
+	{
+		"id": "450",
+		"nomor_faktur": "RM1700450",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "205200",
+		"total": "205200",
+		"user_id": "3"
+	},
+	{
+		"id": "451",
+		"nomor_faktur": "RM1700451",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "42000",
+		"total": "42000",
+		"user_id": "3"
+	},
+	{
+		"id": "452",
+		"nomor_faktur": "RM1700452",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "32100",
+		"total": "32100",
+		"user_id": "3"
+	},
+	{
+		"id": "453",
+		"nomor_faktur": "RM1700453",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "10800",
+		"total": "10800",
+		"user_id": "3"
+	},
+	{
+		"id": "454",
+		"nomor_faktur": "RM1700454",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "1708000",
+		"total": "1708000",
+		"user_id": "3"
+	},
+	{
+		"id": "455",
+		"nomor_faktur": "RM1700455",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "277400",
+		"total": "277400",
+		"user_id": "3"
+	},
+	{
+		"id": "456",
+		"nomor_faktur": "RM1700456",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "530000",
+		"total": "530000",
+		"user_id": "3"
+	},
+	{
+		"id": "457",
+		"nomor_faktur": "RM1700457",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "841500",
+		"total": "841500",
+		"user_id": "3"
+	},
+	{
+		"id": "458",
+		"nomor_faktur": "RM1700458",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "675000",
+		"total": "675000",
+		"user_id": "3"
+	},
+	{
+		"id": "459",
+		"nomor_faktur": "RM1700459",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "977400",
+		"total": "977400",
+		"user_id": "3"
+	},
+	{
+		"id": "460",
+		"nomor_faktur": "RM1700460",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "443520",
+		"total": "443520",
+		"user_id": "3"
+	},
+	{
+		"id": "461",
+		"nomor_faktur": "RM1700461",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "261300",
+		"total": "261300",
+		"user_id": "3"
+	},
+	{
+		"id": "462",
+		"nomor_faktur": "RM1700462",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "785560",
+		"total": "785560",
+		"user_id": "3"
+	},
+	{
+		"id": "463",
+		"nomor_faktur": "RM1700463",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "1148000",
+		"total": "1148000",
+		"user_id": "3"
+	},
+	{
+		"id": "464",
+		"nomor_faktur": "RM1700464",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "770800",
+		"total": "770800",
+		"user_id": "3"
+	},
+	{
+		"id": "465",
+		"nomor_faktur": "RM1700465",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "1156200",
+		"total": "1156200",
+		"user_id": "3"
+	},
+	{
+		"id": "466",
+		"nomor_faktur": "RM1700466",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "177000",
+		"total": "177000",
+		"user_id": "3"
+	},
+	{
+		"id": "467",
+		"nomor_faktur": "RM1700467",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "307500",
+		"total": "307500",
+		"user_id": "3"
+	},
+	{
+		"id": "468",
+		"nomor_faktur": "RM1700468",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "46500",
+		"total": "46500",
+		"user_id": "3"
+	},
+	{
+		"id": "469",
+		"nomor_faktur": "RM1700469",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "6000",
+		"total": "6000",
+		"user_id": "3"
+	},
+	{
+		"id": "470",
+		"nomor_faktur": "RM1700470",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "2050000",
+		"total": "2050000",
+		"user_id": "3"
+	},
+	{
+		"id": "471",
+		"nomor_faktur": "RM1700471",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "79200",
+		"total": "79200",
+		"user_id": "3"
+	},
+	{
+		"id": "472",
+		"nomor_faktur": "RM1700472",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "40000",
+		"total": "40000",
+		"user_id": "3"
+	},
+	{
+		"id": "473",
+		"nomor_faktur": "RM1700473",
+		"tanggal": "2017-12-01",
+		"jumlah_bayar": "180400",
+		"total": "180400",
+		"user_id": "3"
+	},
+	{
+		"id": "474",
+		"nomor_faktur": "RM1700474",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "88000",
+		"total": "88000",
+		"user_id": "2"
+	},
+	{
+		"id": "475",
+		"nomor_faktur": "RM1700475",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "460000",
+		"total": "460000",
+		"user_id": "2"
+	},
+	{
+		"id": "476",
+		"nomor_faktur": "RM1700476",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "12400",
+		"total": "12400",
+		"user_id": "2"
+	},
+	{
+		"id": "477",
+		"nomor_faktur": "RM1700477",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "89600",
+		"total": "89600",
+		"user_id": "2"
+	},
+	{
+		"id": "478",
+		"nomor_faktur": "RM1700478",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "221400",
+		"total": "221400",
+		"user_id": "2"
+	},
+	{
+		"id": "479",
+		"nomor_faktur": "RM1700479",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "18000",
+		"total": "18000",
+		"user_id": "2"
+	},
+	{
+		"id": "480",
+		"nomor_faktur": "RM1700480",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "43000",
+		"total": "43000",
+		"user_id": "2"
+	},
+	{
+		"id": "481",
+		"nomor_faktur": "RM1700481",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "182400",
+		"total": "182400",
+		"user_id": "2"
+	},
+	{
+		"id": "482",
+		"nomor_faktur": "RM1700482",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "192500",
+		"total": "192500",
+		"user_id": "2"
+	},
+	{
+		"id": "483",
+		"nomor_faktur": "RM1700483",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "644100",
+		"total": "644100",
+		"user_id": "2"
+	},
+	{
+		"id": "484",
+		"nomor_faktur": "RM1700484",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "102200",
+		"total": "102200",
+		"user_id": "2"
+	},
+	{
+		"id": "485",
+		"nomor_faktur": "RM1700485",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "88800",
+		"total": "88800",
+		"user_id": "2"
+	},
+	{
+		"id": "486",
+		"nomor_faktur": "RM1700486",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "53600",
+		"total": "53600",
+		"user_id": "2"
+	},
+	{
+		"id": "487",
+		"nomor_faktur": "RM1700487",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "68400",
+		"total": "68400",
+		"user_id": "2"
+	},
+	{
+		"id": "488",
+		"nomor_faktur": "RM1700488",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "874200",
+		"total": "874200",
+		"user_id": "2"
+	},
+	{
+		"id": "489",
+		"nomor_faktur": "RM1700489",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "222200",
+		"total": "222200",
+		"user_id": "2"
+	},
+	{
+		"id": "490",
+		"nomor_faktur": "RM1700490",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "10800",
+		"total": "10800",
+		"user_id": "2"
+	},
+	{
+		"id": "491",
+		"nomor_faktur": "RM1700491",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "264000",
+		"total": "264000",
+		"user_id": "2"
+	},
+	{
+		"id": "492",
+		"nomor_faktur": "RM1700492",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "74900",
+		"total": "74900",
+		"user_id": "2"
+	},
+	{
+		"id": "493",
+		"nomor_faktur": "RM1700493",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "5400",
+		"total": "5400",
+		"user_id": "2"
+	},
+	{
+		"id": "494",
+		"nomor_faktur": "RM1700494",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "868000",
+		"total": "868000",
+		"user_id": "2"
+	},
+	{
+		"id": "495",
+		"nomor_faktur": "RM1700495",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "95000",
+		"total": "95000",
+		"user_id": "2"
+	},
+	{
+		"id": "496",
+		"nomor_faktur": "RM1700496",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "430000",
+		"total": "430000",
+		"user_id": "2"
+	},
+	{
+		"id": "497",
+		"nomor_faktur": "RM1700497",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "790500",
+		"total": "790500",
+		"user_id": "2"
+	},
+	{
+		"id": "498",
+		"nomor_faktur": "RM1700498",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "200000",
+		"total": "200000",
+		"user_id": "2"
+	},
+	{
+		"id": "499",
+		"nomor_faktur": "RM1700499",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "432000",
+		"total": "432000",
+		"user_id": "2"
+	},
+	{
+		"id": "500",
+		"nomor_faktur": "RM1700500",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "130680",
+		"total": "130680",
+		"user_id": "2"
+	},
+	{
+		"id": "501",
+		"nomor_faktur": "RM1700501",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "624000",
+		"total": "624000",
+		"user_id": "2"
+	},
+	{
+		"id": "502",
+		"nomor_faktur": "RM1700502",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "1800",
+		"total": "1800",
+		"user_id": "2"
+	},
+	{
+		"id": "503",
+		"nomor_faktur": "RM1700503",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "131200",
+		"total": "131200",
+		"user_id": "2"
+	},
+	{
+		"id": "504",
+		"nomor_faktur": "RM1700504",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "425580",
+		"total": "425580",
+		"user_id": "2"
+	},
+	{
+		"id": "505",
+		"nomor_faktur": "RM1700505",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "418200",
+		"total": "418200",
+		"user_id": "2"
+	},
+	{
+		"id": "506",
+		"nomor_faktur": "RM1700506",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "619510",
+		"total": "619510",
+		"user_id": "2"
+	},
+	{
+		"id": "507",
+		"nomor_faktur": "RM1700507",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "7700",
+		"total": "7700",
+		"user_id": "2"
+	},
+	{
+		"id": "508",
+		"nomor_faktur": "RM1700508",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "23600",
+		"total": "23600",
+		"user_id": "2"
+	},
+	{
+		"id": "509",
+		"nomor_faktur": "RM1700509",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "565800",
+		"total": "565800",
+		"user_id": "2"
+	},
+	{
+		"id": "510",
+		"nomor_faktur": "RM1700510",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "7500",
+		"total": "7500",
+		"user_id": "2"
+	},
+	{
+		"id": "511",
+		"nomor_faktur": "RM1700511",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "58500",
+		"total": "58500",
+		"user_id": "2"
+	},
+	{
+		"id": "512",
+		"nomor_faktur": "RM1700512",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "1000000",
+		"total": "1000000",
+		"user_id": "2"
+	},
+	{
+		"id": "513",
+		"nomor_faktur": "RM1700513",
+		"tanggal": "2018-01-01",
+		"jumlah_bayar": "29700",
+		"total": "29700",
+		"user_id": "2"
+	},
+	{
+		"id": "514",
+		"nomor_faktur": "RM1700514",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "30800",
+		"total": "30800",
+		"user_id": "3"
+	},
+	{
+		"id": "515",
+		"nomor_faktur": "RM1700515",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "580000",
+		"total": "580000",
+		"user_id": "3"
+	},
+	{
+		"id": "516",
+		"nomor_faktur": "RM1700516",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "99200",
+		"total": "99200",
+		"user_id": "3"
+	},
+	{
+		"id": "517",
+		"nomor_faktur": "RM1700517",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "229600",
+		"total": "229600",
+		"user_id": "3"
+	},
+	{
+		"id": "518",
+		"nomor_faktur": "RM1700518",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "58500",
+		"total": "58500",
+		"user_id": "3"
+	},
+	{
+		"id": "519",
+		"nomor_faktur": "RM1700519",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "206400",
+		"total": "206400",
+		"user_id": "3"
+	},
+	{
+		"id": "520",
+		"nomor_faktur": "RM1700520",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "121600",
+		"total": "121600",
+		"user_id": "3"
+	},
+	{
+		"id": "521",
+		"nomor_faktur": "RM1700521",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "122500",
+		"total": "122500",
+		"user_id": "3"
+	},
+	{
+		"id": "522",
+		"nomor_faktur": "RM1700522",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "22600",
+		"total": "22600",
+		"user_id": "3"
+	},
+	{
+		"id": "523",
+		"nomor_faktur": "RM1700523",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "292000",
+		"total": "292000",
+		"user_id": "3"
+	},
+	{
+		"id": "524",
+		"nomor_faktur": "RM1700524",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "44400",
+		"total": "44400",
+		"user_id": "3"
+	},
+	{
+		"id": "525",
+		"nomor_faktur": "RM1700525",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "20100",
+		"total": "20100",
+		"user_id": "3"
+	},
+	{
+		"id": "526",
+		"nomor_faktur": "RM1700526",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "205200",
+		"total": "205200",
+		"user_id": "3"
+	},
+	{
+		"id": "527",
+		"nomor_faktur": "RM1700527",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "1076300",
+		"total": "911800",
+		"user_id": "3"
+	},
+	{
+		"id": "528",
+		"nomor_faktur": "RM1700528",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "620400",
+		"total": "620400",
+		"user_id": "3"
+	},
+	{
+		"id": "529",
+		"nomor_faktur": "RM1700529",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "510000",
+		"total": "510000",
+		"user_id": "3"
+	},
+	{
+		"id": "530",
+		"nomor_faktur": "RM1700530",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "299600",
+		"total": "299600",
+		"user_id": "3"
+	},
+	{
+		"id": "531",
+		"nomor_faktur": "RM1700531",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "27000",
+		"total": "27000",
+		"user_id": "3"
+	},
+	{
+		"id": "532",
+		"nomor_faktur": "RM1700532",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "3304000",
+		"total": "3304000",
+		"user_id": "3"
+	},
+	{
+		"id": "533",
+		"nomor_faktur": "RM1700533",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "483550",
+		"total": "483550",
+		"user_id": "3"
+	},
+	{
+		"id": "534",
+		"nomor_faktur": "RM1700534",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "841000",
+		"total": "841000",
+		"user_id": "3"
+	},
+	{
+		"id": "535",
+		"nomor_faktur": "RM1700535",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "820500",
+		"total": "819000",
+		"user_id": "3"
+	},
+	{
+		"id": "536",
+		"nomor_faktur": "RM1700536",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "200000",
+		"total": "200000",
+		"user_id": "3"
+	},
+	{
+		"id": "537",
+		"nomor_faktur": "RM1700537",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "835200",
+		"total": "835200",
+		"user_id": "3"
+	},
+	{
+		"id": "538",
+		"nomor_faktur": "RM1700538",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "535680",
+		"total": "535680",
+		"user_id": "3"
+	},
+	{
+		"id": "539",
+		"nomor_faktur": "RM1700539",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "585000",
+		"total": "585000",
+		"user_id": "3"
+	},
+	{
+		"id": "540",
+		"nomor_faktur": "RM1700540",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "274200",
+		"total": "274200",
+		"user_id": "3"
+	},
+	{
+		"id": "541",
+		"nomor_faktur": "RM1700541",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "2700",
+		"total": "2700",
+		"user_id": "3"
+	},
+	{
+		"id": "542",
+		"nomor_faktur": "RM1700542",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "196800",
+		"total": "196800",
+		"user_id": "3"
+	},
+	{
+		"id": "543",
+		"nomor_faktur": "RM1700543",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "2008590",
+		"total": "2008590",
+		"user_id": "3"
+	},
+	{
+		"id": "544",
+		"nomor_faktur": "RM1700544",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "833120",
+		"total": "833120",
+		"user_id": "3"
+	},
+	{
+		"id": "545",
+		"nomor_faktur": "RM1700545",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "1644100",
+		"total": "1644100",
+		"user_id": "3"
+	},
+	{
+		"id": "546",
+		"nomor_faktur": "RM1700546",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "18480",
+		"total": "18480",
+		"user_id": "3"
+	},
+	{
+		"id": "547",
+		"nomor_faktur": "RM1700547",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "10200",
+		"total": "10200",
+		"user_id": "3"
+	},
+	{
+		"id": "548",
+		"nomor_faktur": "RM1700548",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "13200",
+		"total": "13200",
+		"user_id": "3"
+	},
+	{
+		"id": "549",
+		"nomor_faktur": "RM1700549",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "47200",
+		"total": "47200",
+		"user_id": "3"
+	},
+	{
+		"id": "550",
+		"nomor_faktur": "RM1700550",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "393600",
+		"total": "393600",
+		"user_id": "3"
+	},
+	{
+		"id": "551",
+		"nomor_faktur": "RM1700551",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "17400",
+		"total": "17400",
+		"user_id": "3"
+	},
+	{
+		"id": "552",
+		"nomor_faktur": "RM1700552",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "2000",
+		"total": "2000",
+		"user_id": "3"
+	},
+	{
+		"id": "553",
+		"nomor_faktur": "RM1700553",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "117000",
+		"total": "117000",
+		"user_id": "3"
+	},
+	{
+		"id": "554",
+		"nomor_faktur": "RM1700554",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "650000",
+		"total": "650000",
+		"user_id": "3"
+	},
+	{
+		"id": "555",
+		"nomor_faktur": "RM1700555",
+		"tanggal": "2018-02-01",
+		"jumlah_bayar": "15400",
+		"total": "15400",
+		"user_id": "3"
+	}
+]

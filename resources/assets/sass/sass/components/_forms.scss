@@ -1,0 +1,193 @@
+input,
+.input,
+textarea,
+select {
+    display: block;
+    width: 100%;
+    height: 40px;
+	font-family: inherit;
+    font-size: 14px;
+    color: $color-text;
+    outline: none;
+    line-height: 1;
+	background: none;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 0 14px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+    &:focus {
+        outline: none;
+        border: 2px solid $color-primary;
+    }
+
+    &[readonly='readonly'] {
+        // background: $color-graylight;
+        cursor: not-allowed;
+    }
+
+    &::placeholder {
+        color: $color-text;
+        opacity: 0.7;
+    }
+
+    // &.has-error {
+    //     border: 2px solid $color-error;
+    // }
+}
+
+.checkbox input[type="checkbox"] {
+    display: none;
+
+    +:before {
+        font-family: 'skripsweet';
+        font-size: 18px;
+        content: "\e911";
+        opacity: 0.5;
+    }
+
+    &:checked +:before {
+        content: "\e901";
+        color: $color-link;
+        opacity: 1;
+    }
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-clear-button,
+input[type="month"]::-webkit-inner-spin-button,
+input[type="month"]::-webkit-clear-button {
+    display: none;
+    -webkit-appearance: none;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator,
+input[type="month"]::-webkit-calendar-picker-indicator {
+    position: absolute;
+    right: 10px;
+    font-size: 10px;
+    height: 5px;
+    cursor: pointer;
+}
+
+input::-webkit-inner-spin-button {
+    display: none;
+    -webkit-appearance: none;
+}
+
+.select {
+    position: relative;
+
+    select {
+        padding-right: 18px;
+    }
+
+    i {
+        position: absolute;
+        right: 10px;
+        top: 0;
+        font-size: 14px;
+        line-height: 40px;
+    }
+}
+
+.form-group {
+    margin-bottom: 22px;
+    position: relative;
+
+    .label {
+        display: block;
+        color: $color-text;
+        opacity: .8;
+        margin-bottom: 10px;
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .help {
+        display: block;
+        opacity: .7;
+        margin-top: 10px;
+        font-size: 11px;
+        line-height: 15px;
+        max-height: 25px;
+    }
+
+    .help.error {
+        opacity: 1
+    }
+}
+
+.pembelian .form-group {
+    margin-bottom: 0px;
+}
+
+.ui.fluid.dropdown {
+    height: 40px !important;
+    line-height: 40px !important;
+    padding: 0 !important;
+    min-width: 0px !important;
+    min-height: 0px !important;
+    border: none !important;
+}
+
+.ui.selection.dropdown .menu[data-v-3a0c7bea] {
+    width: 100% !important;
+    min-width: 100% !important;
+    margin: 0px !important;
+    top: 38px;
+}
+
+.ui.selection.dropdown:hover .menu[data-v-3a0c7bea],
+.ui.selection.active.dropdown .menu[data-v-3a0c7bea] {
+    border: 2px solid $color-primary !important;
+    border-top: none !important;
+
+    display: block;
+}
+
+
+.ui.fluid.active.dropdown > .dropdown.icon {
+    transform: rotate(180deg);
+}
+
+#app .ui.selection.dropdown .menu > .item[data-v-3a0c7bea] {
+    padding: 10px 14px !important;
+    font-size: 14px !important;
+}
+
+.ui.dropdown:not(.button) > .default.text[data-v-3a0c7bea],
+.ui.search.dropdown > .text[data-v-3a0c7bea] {
+    color: $color-text !important;
+    line-height: 40px !important;
+    top: 0 !important;
+    position: absolute !important;
+    padding-left: 14px;
+}
+
+#app .ui.search.selection.dropdown > input.search[data-v-3a0c7bea] {
+    padding: 0 14px;
+    line-height: 40px !important;
+    height: 40px !important;
+    border: 2px solid #ddd !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#app .ui.search.selection.dropdown.active > input.search[data-v-3a0c7bea] {
+    border: 2px solid $color-primary !important;
+    border-bottom: none !important;
+    border-radius: 8px 8px 0px 0px !important;
+}
+
+.ui.fluid.dropdown > .dropdown.icon[data-v-3a0c7bea]{
+    right: 0px !important;
+    width: 30px !important;
+    padding: 0px !important;
+    margin: 0 !important;
+    top: 0 !important;
+    line-height: 40px !important;
+    // z-index: inherit;
+}

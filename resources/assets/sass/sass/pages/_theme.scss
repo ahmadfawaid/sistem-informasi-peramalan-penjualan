@@ -1,0 +1,79 @@
+body {
+    font-family: $font-family;
+    font-size: 14px;
+    font-weight: normal;
+    color: $color-text;
+    background: $color-graylight;
+    letter-spacing: 0.2px;
+}
+
+.dashboard {
+    .top-content {
+        margin: 40px -10px 0px -10px;
+    }
+    .graph {
+        margin-top: 30px;
+    }
+}
+
+.top-content {
+    color: $color-text;
+
+    .title {
+        font-size: 22px;
+    }
+    .name {
+        display: block;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 7px;
+    }
+
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        padding: 24px 10px 24px 24px;
+    }
+
+    .col {
+        padding: 0px 10px;
+    }
+
+    .subtitle {
+        font-weight: 500;
+        opacity: 0.7;
+    }
+
+    .total {
+        display: flex;
+        margin-top: 14px;
+        line-height: 30px;
+        
+        i {
+            font-size: 24px;
+            margin-right: 10px;
+        }
+
+        i.sales {
+            color: $color-success;
+        }
+        i.stock {
+            color: $color-primary;
+        }
+
+        .text {
+            font-size: 24px;
+        }
+    }
+}
+
+.graph {
+    .title {
+        font-size: 28px;
+        margin: 0px 0px 10px;
+    }
+    .subtitle {
+        margin-bottom: 30px;
+        display: block
+    }
+}

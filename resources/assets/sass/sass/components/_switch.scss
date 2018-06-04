@@ -1,0 +1,43 @@
+.switch{
+    // display: block !important;
+    position: relative;
+    width: 40px;
+    height: 20px;
+    // appearance: none;
+    -webkit-appearance: none;
+    background: #c6c6c6;
+    outline: none;
+    border-radius: 20px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
+    transition: .3s !important;   
+    cursor: pointer;
+    border: none !important;
+    display: flex;
+    align-self: center;
+
+    &:before {
+        content: '';
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        top: 0;
+        left: 0;
+        background: #fff;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+        transform: scale(1.1);
+        transition: .3s;
+    }
+
+    &:checked:before {
+        left: 20px;
+    }
+
+    &:focus {
+        border: none;
+    }
+}
+
+.switch:checked {
+    background: $color-success;
+}

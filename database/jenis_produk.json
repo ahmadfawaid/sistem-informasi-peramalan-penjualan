@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "jenis": "Injeksi"
+    },
+    {
+      "id": 2,
+      "jenis": "Cair"
+    },
+    {
+      "id": 3,
+      "jenis": "Tablet"
+    },
+    {
+      "id": 4,
+      "jenis": "Powder"
+    },
+    {
+      "id": 5,
+      "jenis": "Sallep"
+    },
+    {
+      "id": 6,
+      "jenis": "Pembalut"
+    },
+    {
+      "id": 7,
+      "jenis": "Alkes"
+    }
+  ]

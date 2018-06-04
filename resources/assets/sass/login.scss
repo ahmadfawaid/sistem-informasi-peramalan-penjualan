@@ -1,0 +1,147 @@
+@import 'sass/base';
+
+body {
+    font-family: $font-family;
+    font-size: 14px;
+    font-weight: normal;
+    color: $color-text;
+    background: $color-graylight;
+    letter-spacing: 0.5px;
+}
+
+.wrapper {
+    display: flex;
+
+    .left, 
+    .right {
+        width: 50%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .left {
+        background: $color-black;
+        background: linear-gradient(45deg, #04080d, #192231);
+    }
+
+    .right {
+        background: #fff;
+    }
+}
+
+.logo {
+    text-align: center;
+
+    img {
+        width: 80px;
+        margin-bottom: 20px;
+    }
+
+    .title {
+        display: block;
+        font-size: 36px;
+        color: #fff;
+        font-weight: 500;
+        letter-spacing: 1px;
+        margin-bottom: 5px;
+    }
+
+    .subtitle {
+        display: block;
+        font-size: 22px;
+        color: #fff;
+        letter-spacing: 1px;
+    }
+}
+
+.heading {
+    margin-bottom: 36px;
+    letter-spacing: 0.8px;
+
+    .title {
+        font-size: 36px;
+        color: $color-heading;
+        margin: 0px 0px 7px;
+    }
+    .subtitle {
+        font-size: 28px;
+    }
+}
+
+.form-group {
+    margin-bottom: 20px;
+
+    .label {
+        display: block;
+        font-weight: 500;
+        opacity: 0.5;
+        margin-bottom: 12px
+    }
+
+    .input {
+        display: block;
+        width: 300px;
+        height: 44px;
+        line-height: 44px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        background: $color-graylight;
+        padding: 0px 20px;
+        font-size: 15px;
+        font-weight: 500;
+        color: $color-text;
+        
+        &:focus {
+            outline: none;
+            border: 2px solid $color-primary;
+        }
+
+        &::placeholder {
+            opacity: 0.5;
+        }
+
+        &.has-error {
+            border: 2px solid $color-error;
+        }
+
+        &.password {
+            letter-spacing: 5px;
+        }
+
+        &.password::placeholder {
+            letter-spacing: 0.5px;
+        }
+    }
+
+    .help {
+        font-size: 13px;
+        display: block;
+        margin-top: 10px;
+        color: $color-error;
+    }
+}
+
+.button {
+    font-family: $font-family;
+    color: #fff;
+    background: $color-primary;
+    border-radius: 10px;
+    font-size: 15px;
+    height: 42px;
+    line-height: 42px;
+    padding: 0px 30px;
+    margin-top: 18px;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    border: none;
+    vertical-align: middle;
+    box-shadow: 0px 5px 5px 0 rgba(0, 0, 0, 0.15);
+    letter-spacing: 0.7px;
+
+    &:focus {
+		outline: none;
+	}
+}

@@ -1,0 +1,60 @@
+button,
+.button,
+a.button {
+	font-family: $font-family;
+	font-size: 14px;
+	color: #fff;
+	background: $color-primary;
+	border-radius: 8px;
+	height: 40px;
+	padding: 0px 20px;
+	text-decoration: none;
+	cursor: pointer;
+	display: inline-block;
+	line-height: 40px;
+	border: none;
+	vertical-align: middle;
+	-webkit-appearance: none;
+	box-shadow: 0px 5px 5px 0 rgba(0, 0, 0, 0.15);
+	letter-spacing: 0.7px;
+	display: flex;
+
+	& i {
+        position: relative;
+		margin: 0px 5px 0px -2px;
+		line-height: 40px;
+		font-size: 16px;
+	}
+
+	&:focus {
+		outline: none;
+	}
+}
+
+.button-icon {
+	width: 40px;
+	line-height: 1;
+	text-align: center;
+	padding: 0px;
+	background: #fff;
+	box-shadow: 0px 5px 5px 0 rgba(0, 0, 0, 0.05);
+	outline: none;
+	border-radius: 10px;
+
+	& i {
+		width: 100%;
+		font-size: 18px;
+		margin: 0px;
+	}
+
+	&:focus {
+		outline: none;
+	}
+
+	&:disabled {
+		box-shadow: none;
+		border: none;
+		color: #b1afaf;
+		cursor: default;
+	}
+}

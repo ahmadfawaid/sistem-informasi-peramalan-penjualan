@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'rumacon';
+  src:  url('fonts/rumacon.eot?cg94rt');
+  src:  url('fonts/rumacon.eot?cg94rt#iefix') format('embedded-opentype'),
+    url('fonts/rumacon.ttf?cg94rt') format('truetype'),
+    url('fonts/rumacon.woff?cg94rt') format('woff'),
+    url('fonts/rumacon.svg?cg94rt#rumacon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="rm-"], [class*=" rm-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rumacon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rm-area:before {
+  content: "\e900";
+}
+.rm-arrow-next:before {
+  content: "\e901";
+}
+.rm-arrow-prev:before {
+  content: "\e902";
+}
+.rm-bath:before {
+  content: "\e903";
+}
+.rm-bed:before {
+  content: "\e904";
+}
+.rm-bookmark:before {
+  content: "\e905";
+}
+.rm-bookmark-filled:before {
+  content: "\e906";
+}
+.rm-collapse:before {
+  content: "\e907";
+}
+.rm-expand:before {
+  content: "\e908";
+}
+.rm-facebook:before {
+  content: "\e909";
+}
+.rm-linkedin:before {
+  content: "\e90a";
+}
+.rm-location:before {
+  content: "\e90b";
+}
+.rm-next:before {
+  content: "\e90c";
+}
+.rm-play .path1:before {
+  content: "\e90d";
+  color: rgb(0, 0, 0);
+}
+.rm-play .path2:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.rm-prev:before {
+  content: "\e90f";
+}
+.rm-quote:before {
+  content: "\e910";
+}
+.rm-search:before {
+  content: "\e911";
+}
+.rm-twitter:before {
+  content: "\e912";
+}

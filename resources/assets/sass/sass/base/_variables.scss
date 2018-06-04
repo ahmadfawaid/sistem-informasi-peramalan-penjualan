@@ -1,0 +1,63 @@
+// BREAKPOINTS
+// ----------------------------------------------------
+$sm: 768px !default;
+$md: 1024px !default;
+$lg: 1200px !default;
+
+
+// WIDTH
+// ----------------------------------------------------
+$w-small: 480px !default;
+$w-medium: 600px !default;
+$w-big: 740px !default;
+$w-large: 840px !default;
+
+// GRID
+// ----------------------------------------------------
+$grid-columns: 12 !default;
+$grid-gutter: 2% !default;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+
+// FONT FAMILY
+// ----------------------------------------------------
+$font-family: 'Open Sans', sans-serif !default;
+$headings-font-family: $font-family !default;
+$buttons-font-family: $font-family !default;
+$input-font-family: $font-family !default;
+// Margin
+$text-margin-bottom: 14px !default;
+
+// COLOR
+// ----------------------------------------------------
+
+// Text
+$color-text: #465368 !default;
+$color-heading: #2d3749 !default;
+
+// Links
+$color-link: #3785fb !default;
+
+// States
+$color-black: #0e1726 !default;
+$color-primary: #0065ff !default;
+$color-success: #13ce66 !default;
+$color-warning: #fd9f19 !default;
+$color-error: #ff4949 !default;
+$color-graylight: #f3f7fb !default;
+
+// Z-INDEX
+// ----------------------------------------------------
+$z-over-content: 100 !default;
+$z-over-control: 200 !default;
+$z-over-page: 300 !default;
+$z-over-screen: 400 !default;
+$z-over-all: 500 !default;
