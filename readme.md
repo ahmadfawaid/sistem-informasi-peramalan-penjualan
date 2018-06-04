@@ -4,10 +4,10 @@
 
 ## Instalasi
 
-## Sebelum Proses Instalasi
+### Sebelum Proses Instalasi
 - pastikan komputer anda sudah terinstall `composer` dan `npm`
 
-## Sudah? Ok Lanjut
+### Sudah? Ok Lanjut
 - jalankan `git clone https://github.com/ahmadfawaid/Skripsweet.git`
 - masuk ke direktori app
 - jalankan `composer install`
