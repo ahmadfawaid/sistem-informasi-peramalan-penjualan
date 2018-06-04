@@ -1,6 +1,6 @@
 # Skripsweet
 
-> Projek skripsi menggunakan metode peramalan "Adaptive Responsive Rate Single Exponential Smoothing"
+> Projek skripsi menggunakan framework Laravel & Vue
 
 
 ## Instalasi
