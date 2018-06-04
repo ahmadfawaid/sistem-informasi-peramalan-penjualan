@@ -21,6 +21,14 @@ class UserTableSeeder extends Seeder
                 'status'    => 'aktif',
         		'password'	=> bcrypt('1324')
             ],
+		[
+                'nama'      => 'Apoteker',
+                'username'  => 'apoteker',
+                'email'     => 'apoteker@gmail.com',
+                'role'      => 'apoteker',
+                'status'    => 'aktif',
+                'password'  => bcrypt('1324')
+            ],
             [
                 'nama'      => 'Yudhistirawati',
                 'username'  => 'tira',
