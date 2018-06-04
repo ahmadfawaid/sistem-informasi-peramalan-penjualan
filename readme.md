@@ -36,13 +36,10 @@ npm run hot
 
 ### Data User
 
-admin
-username: admin
-password: 1324
-
-apoteker
-username: apoteker
-password: 1324
+|Email|Password|
+|:------------|:------------|
+|admin|1324|
+|apoteker|1324|
 
 
 ## Semoga Bermanfaat
