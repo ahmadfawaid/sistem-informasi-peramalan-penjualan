@@ -22,10 +22,9 @@ Sistem dengan fitur peramalan yang mampu meramalkan penjualan obat pada periode 
 - copy file `.env.example` ke `.env`
 - perbarui file `.env` sesuaikan dengan nama database yg telah dibuat
 - jalankan `composer dump-autoload`
-- jalankan `php artisan migrate`
-- jalankan `php artisan db:seed`
+- jalankan `php artisan migrate --seed`
 - jalankan `npm install`
-- jalankan `php artisan serv` 
+- jalankan `php artisan serve` 
 
 
 ## Penggunaan
