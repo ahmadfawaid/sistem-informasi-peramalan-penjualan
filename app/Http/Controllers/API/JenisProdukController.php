@@ -29,7 +29,7 @@ class JenisProdukController extends Controller
 
     public function show($id)
     {
-        //
+        //code here
     }
 
     public function update(Request $request, $id)
