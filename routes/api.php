@@ -21,21 +21,25 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::post('peramalan','Api\PeramalanController@peramalan');
 
 // penjualan
-Route::get('penjualan/index/{perPage}','API\PenjualanController@index');
-Route::post('penjualan/store/{perPage}','API\PenjualanController@store');
-Route::get('penjualan/detail/{nomorFaktur}','API\PenjualanController@detail');
-Route::get('penjualan/getNomorFaktur', 'Api\PenjualanController@getNomorfaktur');
-Route::get('penjualan/getPenjualan', 'Api\PenjualanController@getPenjualan');
+Route::group(['prefix' => 'penjualan'], function () {
+	Route::get('index/{perPage}',['uses' => 'API\PenjualanController@index']);
+	Route::post('store/{perPage}',['uses' => 'API\PenjualanController@store']);
+	Route::get('detail/{nomorFaktur}',['uses' => 'API\PenjualanController@detail']);
+	Route::get('getNomorFaktur',['uses' => 'Api\PenjualanController@getNomorfaktur']);
+	Route::get('getPenjualan',['uses' => 'Api\PenjualanController@getPenjualan']);
+});
 
 // pembelian
-Route::get('pembelian/index/{perPage}','API\PembelianController@index');
-Route::post('pembelian/store/{rakID}/{perPage}','API\PembelianController@store');
-Route::post('pembelian/skip/{perPage}','API\PembelianController@skip');
-Route::get('pembelian/detail/{nomorFaktur}','API\PembelianController@detail');
-Route::get('pembelian/edit/{nomorFaktur}','API\PembelianController@edit');
-Route::patch('pembelian/update/{perPage}','API\PembelianController@update');
-Route::post('pembelian/destroy/{perPage}', 'API\PembelianController@destroy');
-Route::post('pembelian/checkForm/{form}', 'Api\PembelianController@checkForm');
+Route::group(['prefix' => 'pembelian'], function () {
+	Route::get('index/{perPage}',['uses' => 'API\PembelianController@index']);
+	Route::post('store/{rakID}/{perPage}',['uses' => 'API\PembelianController@store']);
+	Route::post('skip/{perPage}',['uses' => 'API\PembelianController@skip']);
+	Route::get('detail/{nomorFaktur}',['uses' => 'API\PembelianController@detail']);
+	Route::get('edit/{nomorFaktur}',['uses' => 'API\PembelianController@edit']);
+	Route::patch('update/{perPage}',['uses' => 'API\PembelianController@update']);
+	Route::post('destroy/{perPage}',['uses' => 'API\PembelianController@destroy']);
+	Route::post('checkForm/{form}',['uses' => 'Api\PembelianController@checkForm']);
+});
 
 // persediaan
 Route::get('persediaan/index/{nomorRak}/{perPage}','API\PersediaanController@index');
